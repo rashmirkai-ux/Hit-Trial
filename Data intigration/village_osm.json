@@ -1,0 +1,6840 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-29T13:25:51Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 245771403,
+      "lat": 31.1674771,
+      "lon": 74.944863,
+      "tags": {
+        "name": "Harike",
+        "name:hi": "हरिके",
+        "name:pa": "ਹਰੀਕੇ",
+        "name:ur": "ہریکے",
+        "place": "village",
+        "population": "8662",
+        "population:date": "2011",
+        "postal_code": "143412",
+        "wikidata": "Q73206909",
+        "wikipedia": "en:Harike"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2554352363,
+      "lat": 30.9710448,
+      "lon": 74.8233785,
+      "tags": {
+        "name": "Bharana",
+        "place": "village",
+        "population": "5000"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2607944770,
+      "lat": 30.9464451,
+      "lon": 74.6754216,
+      "tags": {
+        "name": "Shahdin Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3312047587,
+      "lat": 31.2234342,
+      "lon": 74.6172342,
+      "tags": {
+        "alt_name": "Amirke",
+        "alt_name_1": "Amir Ke",
+        "name": "Amarkot",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3312047589,
+      "lat": 31.239793,
+      "lon": 74.8098942,
+      "tags": {
+        "alt_name": "Cheema kalan",
+        "name": "Cheema",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3312047593,
+      "lat": 31.2281,
+      "lon": 74.7341111,
+      "tags": {
+        "name": "Gharyala",
+        "name:ur": "گھڑیالہ",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3312047594,
+      "lat": 31.1582821,
+      "lon": 74.7852775,
+      "tags": {
+        "name": "Kot Budha",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3312048043,
+      "lat": 31.2068944,
+      "lon": 74.6418873,
+      "tags": {
+        "alt_name:ur": "ولٹوہہ",
+        "name": "Valtoha",
+        "name:ur": "ولٹوہا",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4589107178,
+      "lat": 30.9524099,
+      "lon": 74.8845745,
+      "tags": {
+        "name": "Kassoana",
+        "place": "village",
+        "population": "2500"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4589180973,
+      "lat": 30.9932974,
+      "lon": 74.8534061,
+      "tags": {
+        "alt_name": "Kothe Zaildarwale",
+        "name": "Kothe Ambarhar",
+        "place": "village",
+        "population": "700"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4589180974,
+      "lat": 30.9992201,
+      "lon": 74.8368622,
+      "tags": {
+        "name": "Kothe Sarain Singh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4589180975,
+      "lat": 30.9985303,
+      "lon": 74.8281718,
+      "tags": {
+        "name": "Kohala",
+        "place": "village",
+        "population": "2000"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4589186895,
+      "lat": 31.0216201,
+      "lon": 74.8469473,
+      "tags": {
+        "name": "Kothe Gurdit Wale",
+        "place": "hamlet",
+        "population": "500"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4589188393,
+      "lat": 31.0278904,
+      "lon": 74.8400594,
+      "tags": {
+        "name": "Gurditi Wala",
+        "place": "village",
+        "population": "1000"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4589189321,
+      "lat": 31.0342155,
+      "lon": 74.8354889,
+      "tags": {
+        "alt_name": "Basti Chahal",
+        "name": "Chahal",
+        "place": "hamlet",
+        "population": "1200"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4589260723,
+      "lat": 30.9745258,
+      "lon": 74.899034,
+      "tags": {
+        "name": "Markhaii",
+        "place": "village",
+        "population": "1500"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4589263390,
+      "lat": 30.9742683,
+      "lon": 74.923324,
+      "tags": {
+        "name": "Mehar Singh Wala",
+        "place": "village",
+        "population": "1700"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4589263391,
+      "lat": 30.9660349,
+      "lon": 74.9503929,
+      "tags": {
+        "name": "Feroke",
+        "place": "village",
+        "population": "1000"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590940594,
+      "lat": 30.9313291,
+      "lon": 74.875791,
+      "tags": {
+        "name": "Hardasa",
+        "place": "village",
+        "population": "1800"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590940595,
+      "lat": 30.9294517,
+      "lon": 74.869976,
+      "tags": {
+        "name": "Mallu Wala",
+        "place": "village",
+        "population": "400"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590946401,
+      "lat": 30.9283657,
+      "lon": 74.8593973,
+      "tags": {
+        "name": "Wara Waryam Singh Wala",
+        "place": "village",
+        "population": "1000"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590965315,
+      "lat": 30.9176227,
+      "lon": 74.8195133,
+      "tags": {
+        "alt_name": "Karmu Wala",
+        "name": "Karm Wala",
+        "place": "village",
+        "population": "1200"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590965316,
+      "lat": 30.9503478,
+      "lon": 74.82653,
+      "tags": {
+        "name": "Virkan Wali",
+        "place": "village",
+        "population": "800"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590965317,
+      "lat": 30.9609838,
+      "lon": 74.8489318,
+      "tags": {
+        "name": "Gogoani",
+        "place": "village",
+        "population": "2000"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590965318,
+      "lat": 30.9409621,
+      "lon": 74.8624716,
+      "tags": {
+        "name": "Mankian Wali",
+        "place": "village",
+        "population": "1000"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590990229,
+      "lat": 30.9466304,
+      "lon": 74.8417006,
+      "tags": {
+        "alt_name": "Holanwali",
+        "name": "Hollan Wali",
+        "place": "village",
+        "population": "1000"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590990230,
+      "lat": 30.9698339,
+      "lon": 74.796854,
+      "tags": {
+        "alt_name": "Sur Singh Wala",
+        "name": "Sursingh Wala",
+        "place": "village",
+        "population": "1800"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590990231,
+      "lat": 30.9548931,
+      "lon": 74.8016605,
+      "tags": {
+        "name": "Lohgarh",
+        "place": "village",
+        "population": "800"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590990232,
+      "lat": 30.9567332,
+      "lon": 74.7694311,
+      "tags": {
+        "name": "Kulgarhi",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590990233,
+      "lat": 30.9468881,
+      "lon": 74.7420726,
+      "tags": {
+        "alt_name": "Sher Khan Wala",
+        "name": "Sherkhan Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590990234,
+      "lat": 30.9060061,
+      "lon": 74.6776781,
+      "tags": {
+        "name": "Malwal Kadim",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4884378603,
+      "lat": 31.2790308,
+      "lon": 74.7668344,
+      "tags": {
+        "name": "Manakpura",
+        "place": "village",
+        "source:name": "geonames.nga.mil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4884378604,
+      "lat": 31.2645974,
+      "lon": 74.7660325,
+      "tags": {
+        "name": "Paragpur",
+        "place": "village",
+        "source": "bing",
+        "source:name": "geonames.nga.mil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4884378605,
+      "lat": 31.2609343,
+      "lon": 74.7821244,
+      "tags": {
+        "name": "Dhariwal",
+        "place": "village",
+        "source": "bing",
+        "source:name": "geonames.nga.mil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4884380414,
+      "lat": 31.1989909,
+      "lon": 74.6771722,
+      "tags": {
+        "name": "Dasuwal",
+        "place": "village",
+        "source": "bing",
+        "source:name": "geonames.nga.mil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4884380415,
+      "lat": 31.2158299,
+      "lon": 74.7215659,
+      "tags": {
+        "alt_name": "Mann",
+        "name": "Maan",
+        "place": "village",
+        "source": "bing",
+        "source:name": "geonames.nga.mil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4884380416,
+      "lat": 31.1898789,
+      "lon": 74.6679873,
+      "tags": {
+        "alt_name": "Bahadar Nagar",
+        "name": "Bahadurnagar",
+        "place": "village",
+        "source": "bing",
+        "source:name": "geonames.nga.mil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4884380417,
+      "lat": 31.1951274,
+      "lon": 74.6824208,
+      "tags": {
+        "name": "Maneke",
+        "place": "village",
+        "source": "bing",
+        "source:name": "geonames.nga.mil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4884380418,
+      "lat": 31.1973872,
+      "lon": 74.7096839,
+      "tags": {
+        "name": "Jand",
+        "place": "village",
+        "source": "bing",
+        "source:name": "geonames.nga.mil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4884380419,
+      "lat": 31.2129141,
+      "lon": 74.6841703,
+      "tags": {
+        "name": "Ramkhara",
+        "place": "village",
+        "source": "bing",
+        "source:name": "geonames.nga.mil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4884380420,
+      "lat": 31.2269101,
+      "lon": 74.6914599,
+      "tags": {
+        "alt_name": "Varnala",
+        "name": "Warnala",
+        "place": "village",
+        "source": "bing",
+        "source:name": "geonames.nga.mil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4884380470,
+      "lat": 31.1903892,
+      "lon": 74.7678185,
+      "tags": {
+        "name": "Kaleke Uttar",
+        "place": "village",
+        "source": "bing",
+        "source:name": "geonames.nga.mil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4884380522,
+      "lat": 31.2385006,
+      "lon": 74.7146408,
+      "tags": {
+        "alt_name": "Punian",
+        "name": "Ponian",
+        "place": "village",
+        "source": "bing",
+        "source:name": "geonames.nga.mil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4884380523,
+      "lat": 31.2441159,
+      "lon": 74.7391928,
+      "tags": {
+        "name": "Thatha",
+        "place": "village",
+        "source:name": "geonames.nga.mil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4886402761,
+      "lat": 30.9941531,
+      "lon": 74.6032557,
+      "tags": {
+        "name": "Alike",
+        "place": "village",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5248995133,
+      "lat": 30.9965195,
+      "lon": 74.8676634,
+      "tags": {
+        "alt_name": "Jheete",
+        "name": "Jhite",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5327028217,
+      "lat": 31.1701794,
+      "lon": 75.1995706,
+      "tags": {
+        "name": "Jakopur Khurd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6006733944,
+      "lat": 30.9340256,
+      "lon": 75.1856983,
+      "tags": {
+        "alt_name": "Karyal",
+        "name": "Karyal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6009240737,
+      "lat": 31.0528237,
+      "lon": 75.1104784,
+      "tags": {
+        "alt_name": "Fatehgarh Panjtur",
+        "name": "Fatehgarh Panjtoor",
+        "place": "village",
+        "wikidata": "Q81204083",
+        "wikipedia": "en:Fatehgarh Panjtur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6009455086,
+      "lat": 30.9672878,
+      "lon": 74.9660039,
+      "tags": {
+        "name": "Gadriwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6009455124,
+      "lat": 30.940955,
+      "lon": 74.9515199,
+      "tags": {
+        "alt_name": "Mahian Wala Kalan",
+        "name": "Mahyanwala Purana",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6009455148,
+      "lat": 30.928513,
+      "lon": 74.9980402,
+      "tags": {
+        "alt_name": "Suner",
+        "name": "Sunehr",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6009455370,
+      "lat": 30.9764501,
+      "lon": 74.8494887,
+      "tags": {
+        "name": "Khosa Dal Singhwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6009455606,
+      "lat": 30.9779955,
+      "lon": 74.8707104,
+      "tags": {
+        "name": "Chukak Wind",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6009455607,
+      "lat": 31.0530443,
+      "lon": 74.8183536,
+      "tags": {
+        "name": "Nare",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6009455741,
+      "lat": 30.9333354,
+      "lon": 74.7734642,
+      "tags": {
+        "alt_name": "Sultan Khan Wala",
+        "name": "Sodhi Nagar",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6009456759,
+      "lat": 31.0167502,
+      "lon": 74.8578787,
+      "tags": {
+        "alt_name": "Basti Karhal",
+        "name": "Bhago Ke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6009456760,
+      "lat": 30.9226227,
+      "lon": 74.9786853,
+      "tags": {
+        "alt_name": "Mansur Wala",
+        "name": "Mansurwal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6009456761,
+      "lat": 30.9117431,
+      "lon": 74.8507118,
+      "tags": {
+        "name": "Johiyanwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017868,
+      "lat": 31.2475898,
+      "lon": 74.8365068,
+      "tags": {
+        "alt_name": "Bhagupura",
+        "name": "Bhagupur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017869,
+      "lat": 31.239004,
+      "lon": 74.8395753,
+      "tags": {
+        "alt_name": "Sangwa",
+        "alt_name_1": "Sungwan",
+        "name": "Sangwan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017870,
+      "lat": 31.2623379,
+      "lon": 74.8432874,
+      "tags": {
+        "name": "Asal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017871,
+      "lat": 31.2643922,
+      "lon": 74.8282671,
+      "tags": {
+        "alt_name": "Thakur Pura",
+        "name": "Thakarpura",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017872,
+      "lat": 31.2119206,
+      "lon": 74.8172593,
+      "tags": {
+        "alt_name": "Jorh Singh Wala",
+        "name": "Jaur Singhwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017873,
+      "lat": 31.222821,
+      "lon": 74.824748,
+      "tags": {
+        "name": "Saido",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017874,
+      "lat": 31.2272615,
+      "lon": 74.7815322,
+      "tags": {
+        "alt_name": "Shaheed",
+        "name": "Shahid",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017875,
+      "lat": 31.2253165,
+      "lon": 74.8062944,
+      "tags": {
+        "name": "Barwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017876,
+      "lat": 31.2006152,
+      "lon": 74.7889137,
+      "tags": {
+        "alt_name": "Dobli",
+        "name": "Dubli",
+        "name:pa": "ਦੁੱਬਲੀ",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017877,
+      "lat": 31.18784,
+      "lon": 74.7473716,
+      "tags": {
+        "name": "Talwandi Sobha Singh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017878,
+      "lat": 31.1665073,
+      "lon": 74.747715,
+      "tags": {
+        "alt_name": "Talwandi Mohar Singh",
+        "name": "Talwandi Mihr Singh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017879,
+      "lat": 31.1469329,
+      "lon": 74.740076,
+      "tags": {
+        "alt_name": "Toot",
+        "name": "Tut",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017880,
+      "lat": 31.1288606,
+      "lon": 74.7265147,
+      "tags": {
+        "name": "Ram Singhwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017881,
+      "lat": 31.1461249,
+      "lon": 74.7112798,
+      "tags": {
+        "name": "Bhangala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017882,
+      "lat": 31.1022601,
+      "lon": 74.681282,
+      "tags": {
+        "name": "نگر",
+        "name:en": "Nagar",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017883,
+      "lat": 31.0685579,
+      "lon": 74.6646738,
+      "tags": {
+        "name": "مستیکے",
+        "name:en": "Masteke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017884,
+      "lat": 31.0061204,
+      "lon": 74.6195697,
+      "tags": {
+        "name": "Kamalewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017885,
+      "lat": 31.0088056,
+      "lon": 74.6402549,
+      "tags": {
+        "alt_name": "Palla Megha",
+        "name": "Palla",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017886,
+      "lat": 30.9996832,
+      "lon": 74.6524428,
+      "tags": {
+        "alt_name": "Mianwala",
+        "name": "Sabuwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017887,
+      "lat": 30.9891803,
+      "lon": 74.6495567,
+      "tags": {
+        "alt_name": "Bahader Wala",
+        "name": "Bahadurwala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017888,
+      "lat": 30.9820244,
+      "lon": 74.6269511,
+      "tags": {
+        "alt_name": "Kutbe Wala",
+        "name": "Qutbewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017889,
+      "lat": 30.9865865,
+      "lon": 74.6360492,
+      "tags": {
+        "name": "Bhagwanpura",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017890,
+      "lat": 30.9916635,
+      "lon": 74.6272086,
+      "tags": {
+        "alt_name": "Dulchi Ke",
+        "name": "Dulchike",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017891,
+      "lat": 30.976211,
+      "lon": 74.6323585,
+      "tags": {
+        "alt_name": "Sodhe Wala",
+        "name": "Sodhiwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017892,
+      "lat": 30.9648775,
+      "lon": 74.63871,
+      "tags": {
+        "name": "Khushal Singhwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017893,
+      "lat": 31.1798362,
+      "lon": 74.8521709,
+      "tags": {
+        "alt_name": "Sabhra",
+        "name": "Sobraon",
+        "name:pa": "ਸਭਰਾ",
+        "place": "village",
+        "wikidata": "Q3822428",
+        "wikipedia": "en:Sobraon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030017894,
+      "lat": 31.2465258,
+      "lon": 74.7866821,
+      "tags": {
+        "alt_name": "Boparai",
+        "name": "Bopa Rai",
+        "name:ur": "بوپا رائے",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030558428,
+      "lat": 31.2778174,
+      "lon": 74.9402331,
+      "tags": {
+        "name": "Sirhali Kalan",
+        "place": "village",
+        "wikidata": "Q7424003",
+        "wikipedia": "en:Sarhali"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030686816,
+      "lat": 31.267547,
+      "lon": 74.9133681,
+      "tags": {
+        "alt_name": "Thatha",
+        "name": "Thaththa",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030686817,
+      "lat": 31.2913139,
+      "lon": 74.9020385,
+      "tags": {
+        "name": "Nathupur Toda",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6047383355,
+      "lat": 30.9264882,
+      "lon": 74.6449113,
+      "tags": {
+        "name": "Satiawala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6047383356,
+      "lat": 30.916327,
+      "lon": 74.6488595,
+      "tags": {
+        "name": "AlleWala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6047383359,
+      "lat": 30.9034399,
+      "lon": 74.6472287,
+      "tags": {
+        "name": "Butewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6071731624,
+      "lat": 31.1385584,
+      "lon": 74.6242904,
+      "tags": {
+        "name": "Rattoke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6071731808,
+      "lat": 31.1843522,
+      "lon": 74.6045494,
+      "tags": {
+        "alt_name": "Assal Uttar",
+        "name": "Asal Uttar",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6126285816,
+      "lat": 31.0397563,
+      "lon": 74.7392794,
+      "tags": {
+        "addr:district": "Firozpur",
+        "addr:postcode": "152021",
+        "is_in:state": "Punjab",
+        "name": "Arifke",
+        "place": "village",
+        "population": "2757",
+        "wikidata": "Q59616680",
+        "wikipedia": "en:Arifke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6385141954,
+      "lat": 31.0508875,
+      "lon": 75.0618128,
+      "tags": {
+        "name": "Karahe Wala",
+        "place": "village",
+        "population": "949",
+        "population:date": "2011",
+        "wikidata": "Q16257482",
+        "wikipedia": "en:Karahe Wala"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6385141979,
+      "lat": 31.0561874,
+      "lon": 75.0746525,
+      "tags": {
+        "name": "Bal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6877910861,
+      "lat": 30.9153769,
+      "lon": 74.6366271,
+      "tags": {
+        "name": "Nawa Purba",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6878015079,
+      "lat": 30.9305876,
+      "lon": 74.6733067,
+      "tags": {
+        "name": "Bhaiwali",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6878024366,
+      "lat": 30.9279806,
+      "lon": 74.658408,
+      "tags": {
+        "name": "Mohkam Khanwala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6878060380,
+      "lat": 30.942054,
+      "lon": 74.6582648,
+      "tags": {
+        "name": "Kotwal",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6878075120,
+      "lat": 30.9386791,
+      "lon": 74.6653405,
+      "tags": {
+        "name": "Domniwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6878133755,
+      "lat": 30.942774,
+      "lon": 74.6481744,
+      "tags": {
+        "alt_name": "Pir Ahmadkhan Wala",
+        "alt_name_1": "Peer Ahmed Khan",
+        "name": "Pir Ahmadkhan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6893555066,
+      "lat": 30.9373129,
+      "lon": 74.8095068,
+      "tags": {
+        "name": "Ratta Khera",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6894953899,
+      "lat": 30.9306697,
+      "lon": 74.7873733,
+      "tags": {
+        "alt_name": "Qada Bohra",
+        "name": "Kada Bohra",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895027851,
+      "lat": 30.9527891,
+      "lon": 74.7800697,
+      "tags": {
+        "name": "Partap Pura",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895027852,
+      "lat": 30.9478112,
+      "lon": 74.7754563,
+      "tags": {
+        "name": "Basti Rala Singh",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895036697,
+      "lat": 30.9190547,
+      "lon": 74.7634936,
+      "tags": {
+        "name": "Dhale Ki Basti",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895254169,
+      "lat": 30.9020323,
+      "lon": 74.7683122,
+      "tags": {
+        "alt_name": "Bhamba urf Landa",
+        "name": "Bhamewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895397456,
+      "lat": 30.9037987,
+      "lon": 74.7324618,
+      "tags": {
+        "alt_name": "Machhiwara",
+        "name": "Kamagar",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895578292,
+      "lat": 30.9092943,
+      "lon": 74.7020375,
+      "tags": {
+        "alt_name": "Muhkamwala",
+        "name": "Malwal Jadid",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895584769,
+      "lat": 30.9197209,
+      "lon": 74.6829831,
+      "tags": {
+        "name": "Basti Inder Singh",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895709378,
+      "lat": 30.922275,
+      "lon": 74.6888625,
+      "tags": {
+        "name": "Galbianwali",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895713982,
+      "lat": 30.9024478,
+      "lon": 74.683203,
+      "tags": {
+        "name": "Basti Baba Jeevan Singh",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895724241,
+      "lat": 30.9204503,
+      "lon": 74.6943181,
+      "tags": {
+        "name": "Saidanwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895775697,
+      "lat": 30.9165799,
+      "lon": 74.7274595,
+      "tags": {
+        "name": "Basti Dhabwali",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895775716,
+      "lat": 30.9201443,
+      "lon": 74.7338887,
+      "tags": {
+        "name": "Azizwali Basti",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895836087,
+      "lat": 30.9461533,
+      "lon": 74.6953689,
+      "tags": {
+        "alt_name": "Dastul Sahibwala",
+        "name": "June",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895846245,
+      "lat": 30.9428085,
+      "lon": 74.6833633,
+      "tags": {
+        "alt_name": "Loombriwala",
+        "alt_name_1": "Dastool Sahib",
+        "name": "Lomriwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895869063,
+      "lat": 30.9474278,
+      "lon": 74.6899938,
+      "tags": {
+        "name": "Basti Dabbian Wali",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895869959,
+      "lat": 30.9350349,
+      "lon": 74.691925,
+      "tags": {
+        "name": "Basti Bhagsingh",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895923657,
+      "lat": 30.934952,
+      "lon": 74.7071116,
+      "tags": {
+        "name": "Sande Hasham",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895926730,
+      "lat": 30.9251001,
+      "lon": 74.7175722,
+      "tags": {
+        "alt_name": "Kaku Wala",
+        "name": "Kakuwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895939979,
+      "lat": 30.9000146,
+      "lon": 74.7511213,
+      "tags": {
+        "alt_name": "Ugoke Naya",
+        "name": "Ugoke Nawan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6895972779,
+      "lat": 30.9064609,
+      "lon": 74.7515558,
+      "tags": {
+        "alt_name": "Uggoke Purana",
+        "name": "Ugoke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6896077881,
+      "lat": 30.9317529,
+      "lon": 74.7435602,
+      "tags": {
+        "alt_name": "Jamit Pur Dheru",
+        "name": "Jameetpur Dheru",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6896088791,
+      "lat": 30.9392622,
+      "lon": 74.7571456,
+      "tags": {
+        "alt_name": "Takhtuwala",
+        "name": "Takhtu Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6897450569,
+      "lat": 30.9409561,
+      "lon": 74.7269988,
+      "tags": {
+        "alt_name": "Walhoor",
+        "name": "Waloor",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6897472639,
+      "lat": 30.9518346,
+      "lon": 74.7239652,
+      "tags": {
+        "alt_name": "Gdodu",
+        "name": "Gadodoo",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6897478324,
+      "lat": 30.9760326,
+      "lon": 74.7258468,
+      "tags": {
+        "alt_name": "Yare Shah Wala",
+        "name": "Yare Shah",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6897508585,
+      "lat": 30.962528,
+      "lon": 74.7215525,
+      "tags": {
+        "alt_name": "Mukham Bhatti",
+        "name": "Mohkam Bhatti",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6897633327,
+      "lat": 30.9673455,
+      "lon": 74.7574484,
+      "tags": {
+        "alt_name": "Rukan Shah Wala",
+        "name": "Rukanshah Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6897675718,
+      "lat": 30.9552669,
+      "lon": 74.7485863,
+      "tags": {
+        "alt_name": "Naju Shah Mishri Wala",
+        "name": "Najju Shah Misri",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6897783632,
+      "lat": 31.0132791,
+      "lon": 74.7789627,
+      "tags": {
+        "name": "Basti Bela Singh",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6897969833,
+      "lat": 31.0039525,
+      "lon": 74.7739362,
+      "tags": {
+        "name": "Anarkali",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6897984839,
+      "lat": 31.002511,
+      "lon": 74.7789171,
+      "tags": {
+        "name": "Jattan Wali",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6897984955,
+      "lat": 30.9949193,
+      "lon": 74.7722009,
+      "tags": {
+        "name": "Changali Zadid",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898010099,
+      "lat": 30.9900724,
+      "lon": 74.7673192,
+      "tags": {
+        "name": "Basti Mairewali",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898030514,
+      "lat": 30.9802054,
+      "lon": 74.7724127,
+      "tags": {
+        "alt_name": "Changali Qadim",
+        "name": "Changali Kadim",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898055487,
+      "lat": 30.9763167,
+      "lon": 74.7657796,
+      "tags": {
+        "name": "Basti Khajura Wali",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898062883,
+      "lat": 30.9732604,
+      "lon": 74.775559,
+      "tags": {
+        "name": "Basti Turne Wali",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898081613,
+      "lat": 31.0054376,
+      "lon": 74.7862395,
+      "tags": {
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898081636,
+      "lat": 30.9917785,
+      "lon": 74.7945705,
+      "tags": {
+        "name": "Faride Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898099107,
+      "lat": 31.0099021,
+      "lon": 74.7865507,
+      "tags": {
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898159177,
+      "lat": 31.0203815,
+      "lon": 74.7626588,
+      "tags": {
+        "alt_name": "Achhewala",
+        "name": "Achhe Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898177491,
+      "lat": 31.0242086,
+      "lon": 74.7931689,
+      "tags": {
+        "name": "Shivsingh Ki Basti",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898179911,
+      "lat": 31.0263278,
+      "lon": 74.7802192,
+      "tags": {
+        "alt_name": "Sudhwala",
+        "name": "Sudh Singh Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898221093,
+      "lat": 31.0237213,
+      "lon": 74.7542742,
+      "tags": {
+        "alt_name": "Dholewala",
+        "name": "Dhole Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898230373,
+      "lat": 31.0050922,
+      "lon": 74.7395757,
+      "tags": {
+        "name": "Chugatte Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898230382,
+      "lat": 31.0070946,
+      "lon": 74.7461471,
+      "tags": {
+        "name": "Musse Wala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898241071,
+      "lat": 31.0051129,
+      "lon": 74.7603467,
+      "tags": {
+        "name": "Bahal singh wala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898295771,
+      "lat": 30.9799119,
+      "lon": 74.7475399,
+      "tags": {
+        "name": "Saddu Shah Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898314783,
+      "lat": 30.9939372,
+      "lon": 74.7486704,
+      "tags": {
+        "name": "Basti Dandupur",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898319340,
+      "lat": 30.9981286,
+      "lon": 74.7484317,
+      "tags": {
+        "name": "Basti Akalian Wali",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6900158813,
+      "lat": 30.9881622,
+      "lon": 74.7341931,
+      "tags": {
+        "alt_name": "Fariya Mal Wala Bhalla",
+        "name": "Pharaya Malwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6900198907,
+      "lat": 31.0084384,
+      "lon": 74.7181052,
+      "tags": {
+        "alt_name": "Lakha Bhedian",
+        "name": "Lakha Bhedi",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6900256129,
+      "lat": 30.9912894,
+      "lon": 74.7164583,
+      "tags": {
+        "alt_name": "Basti Rampura",
+        "name": "Rampura",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6900297772,
+      "lat": 30.9990262,
+      "lon": 74.7044822,
+      "tags": {
+        "name": "Akku Maste Ke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6900299920,
+      "lat": 30.9842716,
+      "lon": 74.7025645,
+      "tags": {
+        "name": "Basti Tarpur",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6900338098,
+      "lat": 30.9978054,
+      "lon": 74.6933243,
+      "tags": {
+        "name": "Mahalam",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6900360997,
+      "lat": 30.9784813,
+      "lon": 74.7108069,
+      "tags": {
+        "name": "Bage Ke Pipal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6900436591,
+      "lat": 30.9570361,
+      "lon": 74.7069458,
+      "tags": {
+        "name": "Nawan Bagge ke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6900485428,
+      "lat": 30.9641506,
+      "lon": 74.6909219,
+      "tags": {
+        "name": "Nathu Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6902029763,
+      "lat": 31.0267602,
+      "lon": 74.6008419,
+      "tags": {
+        "name": "Nihale Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6902029779,
+      "lat": 31.0219793,
+      "lon": 74.6103798,
+      "tags": {
+        "name": "Kilche",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6902173302,
+      "lat": 30.990753,
+      "lon": 74.6131485,
+      "tags": {
+        "name": "Kamala Chhota",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6903221577,
+      "lat": 30.9838681,
+      "lon": 74.6089009,
+      "tags": {
+        "name": "Saide Ke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6904797431,
+      "lat": 31.003334,
+      "lon": 74.6590313,
+      "tags": {
+        "name": "Langiana",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6904894078,
+      "lat": 30.9894654,
+      "lon": 74.6611332,
+      "tags": {
+        "name": "Bhadru",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6904899525,
+      "lat": 30.9968346,
+      "lon": 74.66057,
+      "tags": {
+        "name": "Amewala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6904899551,
+      "lat": 30.9964644,
+      "lon": 74.6753838,
+      "tags": {
+        "alt_name": "Isse Wala",
+        "name": "Isarwala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6904899562,
+      "lat": 30.9795018,
+      "lon": 74.6583303,
+      "tags": {
+        "name": "Padhri",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6904930244,
+      "lat": 31.0303863,
+      "lon": 74.6488782,
+      "tags": {
+        "alt_name": "Darweshka",
+        "name": "Bhamma Singh Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6904931526,
+      "lat": 31.0248493,
+      "lon": 74.6445384,
+      "tags": {
+        "name": "Mattar",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6904932688,
+      "lat": 30.9713793,
+      "lon": 74.6572306,
+      "tags": {
+        "name": "Gillan Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6904932804,
+      "lat": 31.0345508,
+      "lon": 74.6530517,
+      "tags": {
+        "alt_name": "Jagrawan",
+        "name": "Jakhrawan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6904952813,
+      "lat": 31.0423692,
+      "lon": 74.6560799,
+      "tags": {
+        "alt_name": "Ale Wal",
+        "name": "Pachharian Ki Thaon",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6904967220,
+      "lat": 31.0435274,
+      "lon": 74.6683618,
+      "tags": {
+        "alt_name": "Kamal Wala",
+        "name": "Kamalwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6908981997,
+      "lat": 30.9457209,
+      "lon": 74.6418175,
+      "tags": {
+        "name": "Hake Wala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6909050541,
+      "lat": 30.9547174,
+      "lon": 74.6443951,
+      "tags": {
+        "alt_name": "Baghelsingh Wala",
+        "name": "Baghel Singh Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6909136079,
+      "lat": 30.9543252,
+      "lon": 74.6315124,
+      "tags": {
+        "name": "Theth",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6909171302,
+      "lat": 30.9572694,
+      "lon": 74.6540645,
+      "tags": {
+        "name": "Aasal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6909196103,
+      "lat": 30.9620093,
+      "lon": 74.6832347,
+      "tags": {
+        "name": "Basti Balmik",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6909196144,
+      "lat": 30.9663217,
+      "lon": 74.6853805,
+      "tags": {
+        "name": "Balbir Basti",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6909313900,
+      "lat": 30.9788279,
+      "lon": 74.6918258,
+      "tags": {
+        "alt_name": "Hastewala",
+        "name": "Hasti Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6909327410,
+      "lat": 30.9905608,
+      "lon": 74.7022134,
+      "tags": {
+        "name": "Sidhu",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6909446396,
+      "lat": 30.9691232,
+      "lon": 74.6456542,
+      "tags": {
+        "name": "Khane Ke Ahel",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6909451830,
+      "lat": 30.9798798,
+      "lon": 74.6685101,
+      "tags": {
+        "name": "Rajji Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6911461832,
+      "lat": 31.0061076,
+      "lon": 74.6769445,
+      "tags": {
+        "name": "Atari",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6911544291,
+      "lat": 31.014106,
+      "lon": 74.666428,
+      "tags": {
+        "name": "Usman Randhawa",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6911597867,
+      "lat": 31.0173014,
+      "lon": 74.6667898,
+      "tags": {
+        "alt_name": "Akku Wala",
+        "name": "Akuwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6911744652,
+      "lat": 31.0332408,
+      "lon": 74.6477624,
+      "tags": {
+        "alt_name": "Alewal",
+        "name": "Alle Wal",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6911797067,
+      "lat": 31.0473995,
+      "lon": 74.6869012,
+      "tags": {
+        "name": "Rhane Ki Basti",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6911832966,
+      "lat": 31.031455,
+      "lon": 74.6995559,
+      "tags": {
+        "name": "Basti Wakeelan Wali",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6911847273,
+      "lat": 31.0275707,
+      "lon": 74.6926814,
+      "tags": {
+        "alt_name": "Basti Amritsaryan",
+        "name": "Basti Amritsarian",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6911948945,
+      "lat": 31.0216176,
+      "lon": 74.6790102,
+      "tags": {
+        "alt_name": "gandher",
+        "name": "Gainder",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6911963986,
+      "lat": 31.022468,
+      "lon": 74.6823468,
+      "tags": {
+        "name": "Lakha Bubna",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6911980628,
+      "lat": 31.0394368,
+      "lon": 74.7010794,
+      "tags": {
+        "alt_name": "Basti Wakha",
+        "name": "Wakhe",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6911987822,
+      "lat": 31.0356379,
+      "lon": 74.6946582,
+      "tags": {
+        "alt_name": "Maste ke",
+        "name": "Masteke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6912015912,
+      "lat": 31.0456117,
+      "lon": 74.714072,
+      "tags": {
+        "name": "Nizamwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6912043746,
+      "lat": 31.059513,
+      "lon": 74.6998027,
+      "tags": {
+        "alt_name": "Khan ke",
+        "name": "Khan Ki Basti",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6912055733,
+      "lat": 31.0617004,
+      "lon": 74.6920484,
+      "tags": {
+        "alt_name": "Tindiwala",
+        "name": "Basti Ram Lal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6912102470,
+      "lat": 31.0606687,
+      "lon": 74.7083509,
+      "tags": {
+        "name": "Chamrian Wali",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6912102679,
+      "lat": 31.03384,
+      "lon": 74.7158664,
+      "tags": {
+        "name": "Katora",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6912278926,
+      "lat": 31.0187104,
+      "lon": 74.7216063,
+      "tags": {
+        "alt_name": "Sanda Mauja",
+        "name": "Sanda Moujan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6912305766,
+      "lat": 31.017076,
+      "lon": 74.7039386,
+      "tags": {
+        "alt_name": "Jiva Bhedi",
+        "name": "Jeeva Bhedi",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6912564153,
+      "lat": 31.0121774,
+      "lon": 74.6955192,
+      "tags": {
+        "name": "Tega Singh Wala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6912660498,
+      "lat": 31.0224881,
+      "lon": 74.7317773,
+      "tags": {
+        "name": "Talli Saida Shahu",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6912737001,
+      "lat": 31.0296628,
+      "lon": 74.749685,
+      "tags": {
+        "name": "Daulatpura",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6912808755,
+      "lat": 31.0422199,
+      "lon": 74.7298035,
+      "tags": {
+        "name": "Baghewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6912871090,
+      "lat": 31.052648,
+      "lon": 74.7353369,
+      "tags": {
+        "name": "Sultan Wala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6915304521,
+      "lat": 31.0404724,
+      "lon": 74.7606075,
+      "tags": {
+        "alt_name": "Gulamiwala",
+        "name": "Gulami Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6915420023,
+      "lat": 31.0595217,
+      "lon": 74.7754144,
+      "tags": {
+        "name": "Kamala Bodla",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6915420175,
+      "lat": 31.0332902,
+      "lon": 74.7649163,
+      "tags": {
+        "name": "Allabad",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6915498811,
+      "lat": 31.0162215,
+      "lon": 74.7382712,
+      "tags": {
+        "name": "Basti Khatrian",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6915607714,
+      "lat": 31.0690088,
+      "lon": 74.7340014,
+      "tags": {
+        "alt_name": "Muthian Wala",
+        "name": "Usman Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6915629236,
+      "lat": 31.0403968,
+      "lon": 74.7759189,
+      "tags": {
+        "alt_name": "Ilme Wala",
+        "name": "Ilmewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6915904027,
+      "lat": 31.0296478,
+      "lon": 74.8006035,
+      "tags": {
+        "name": "Kalu Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6915915568,
+      "lat": 31.0415848,
+      "lon": 74.7957326,
+      "tags": {
+        "name": "Aliwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6915922316,
+      "lat": 31.0387903,
+      "lon": 74.7933401,
+      "tags": {
+        "alt_name": "Bir Sarkar",
+        "name": "Beer Sarkar",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6916088057,
+      "lat": 31.0142427,
+      "lon": 74.7249599,
+      "tags": {
+        "name": "Santpura",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6926521024,
+      "lat": 31.0049011,
+      "lon": 74.9407453,
+      "tags": {
+        "alt_name": "Santuwala",
+        "name": "Santu Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929550297,
+      "lat": 31.0929511,
+      "lon": 74.7512897,
+      "tags": {
+        "alt_name": "Taligulam",
+        "name": "Tali Gulam",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929556835,
+      "lat": 31.1001975,
+      "lon": 74.7424518,
+      "tags": {
+        "name": "Dhira Ghara",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929570484,
+      "lat": 31.0935414,
+      "lon": 74.7382394,
+      "tags": {
+        "name": "Nihala Lawera",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929581417,
+      "lat": 31.0811308,
+      "lon": 74.7349457,
+      "tags": {
+        "name": "Kamalwala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929604014,
+      "lat": 31.0973587,
+      "lon": 74.7321293,
+      "tags": {
+        "name": "Bala Megha",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929642467,
+      "lat": 31.0797134,
+      "lon": 74.7596595,
+      "tags": {
+        "name": "Bhanewali Basti",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929653707,
+      "lat": 31.0599005,
+      "lon": 74.7250832,
+      "tags": {
+        "name": "Nizamwala Thar",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929661184,
+      "lat": 31.0842445,
+      "lon": 74.7618978,
+      "tags": {
+        "name": "Baghuwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929665090,
+      "lat": 31.0701889,
+      "lon": 74.7559822,
+      "tags": {
+        "name": "Baggewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929757964,
+      "lat": 31.0583186,
+      "lon": 74.7661277,
+      "tags": {
+        "alt_name": "Faride Wala",
+        "name": "Faridowala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929793048,
+      "lat": 31.0801304,
+      "lon": 74.772113,
+      "tags": {
+        "alt_name": "Hamad Chak",
+        "name": "Hamidwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929913422,
+      "lat": 31.0725954,
+      "lon": 74.7877798,
+      "tags": {
+        "name": "Kamala Middu",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929968008,
+      "lat": 31.0796457,
+      "lon": 74.794944,
+      "tags": {
+        "name": "Fatta Bora",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929971709,
+      "lat": 31.0725563,
+      "lon": 74.7965962,
+      "tags": {
+        "name": "Borewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934045724,
+      "lat": 31.1472738,
+      "lon": 74.9303796,
+      "tags": {
+        "alt_name": "Gati Hari",
+        "description": "Scattered houses",
+        "name": "Gatti Harike",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934238443,
+      "lat": 31.1238093,
+      "lon": 74.9023579,
+      "tags": {
+        "name": "Gatta Badshah",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934244694,
+      "lat": 31.1629866,
+      "lon": 74.8870933,
+      "tags": {
+        "name": "Kutiwala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934246371,
+      "lat": 31.1690525,
+      "lon": 74.9237833,
+      "tags": {
+        "alt_name": "Bhuh",
+        "name": "Buh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934247386,
+      "lat": 31.1549899,
+      "lon": 74.8985544,
+      "tags": {
+        "name": "Ghuram",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934265963,
+      "lat": 31.1218552,
+      "lon": 74.8829654,
+      "tags": {
+        "alt_name": "Fatehgarh Sabraon",
+        "name": "Fatehgarh Sabhra",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934341837,
+      "lat": 31.1311715,
+      "lon": 74.8510176,
+      "tags": {
+        "name": "Araji Sabhra",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934372796,
+      "lat": 31.103258,
+      "lon": 74.8258853,
+      "tags": {
+        "alt_name": "Fatta Wala",
+        "name": "Fatte Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934374284,
+      "lat": 31.1097824,
+      "lon": 74.845106,
+      "tags": {
+        "alt_name": "Aale Wala",
+        "name": "Alle Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934391325,
+      "lat": 31.1011772,
+      "lon": 74.855348,
+      "tags": {
+        "name": "Achhie Ke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934399579,
+      "lat": 31.0990344,
+      "lon": 74.8387639,
+      "tags": {
+        "name": "Machiake",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934490143,
+      "lat": 31.0888422,
+      "lon": 74.8474784,
+      "tags": {
+        "alt_name": "Kamil Wala",
+        "name": "Kaamal Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934680192,
+      "lat": 31.0818454,
+      "lon": 74.8174082,
+      "tags": {
+        "alt_name": "Dula Singhwala",
+        "name": "Dula Singh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934706734,
+      "lat": 31.0744191,
+      "lon": 74.8258882,
+      "tags": {
+        "alt_name": "Khachar Wala",
+        "name": "Khacherwala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934800823,
+      "lat": 31.062068,
+      "lon": 74.8225006,
+      "tags": {
+        "name": "Mallanwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934824363,
+      "lat": 31.0422031,
+      "lon": 74.8114982,
+      "tags": {
+        "name": "Mudhwala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934836566,
+      "lat": 31.0494579,
+      "lon": 74.8172166,
+      "tags": {
+        "name": "Mallanwala Khas",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934853497,
+      "lat": 31.0427179,
+      "lon": 74.823037,
+      "tags": {
+        "name": "Basti Amarsingh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934863764,
+      "lat": 31.0364439,
+      "lon": 74.8085665,
+      "tags": {
+        "alt_name": "Kamhariwala",
+        "name": "Ghumiari Wala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6934917516,
+      "lat": 31.0203182,
+      "lon": 74.8110341,
+      "tags": {
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6936503961,
+      "lat": 31.0344247,
+      "lon": 74.8478531,
+      "tags": {
+        "name": "Canal Colony",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6936573499,
+      "lat": 31.0597115,
+      "lon": 74.8411208,
+      "tags": {
+        "name": "Asif Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6936573592,
+      "lat": 31.0499851,
+      "lon": 74.8306789,
+      "tags": {
+        "alt_name": "Basti Sunma",
+        "name": "Sunwa",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6936611833,
+      "lat": 31.078029,
+      "lon": 74.866304,
+      "tags": {
+        "alt_name": "Hamad Wala Hithar",
+        "name": "Hamadwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6936643659,
+      "lat": 31.1114544,
+      "lon": 74.8668749,
+      "tags": {
+        "alt_name": "Rhodewala",
+        "name": "Rodewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6937094786,
+      "lat": 31.0958599,
+      "lon": 74.8795712,
+      "tags": {
+        "alt_name": "Jalle Wala",
+        "name": "Jallewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6937094984,
+      "lat": 31.1027838,
+      "lon": 74.8906492,
+      "tags": {
+        "alt_name": "Killi Godha",
+        "name": "Killi Guda",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6937103608,
+      "lat": 31.0863186,
+      "lon": 74.894216,
+      "tags": {
+        "name": "Butewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6937118834,
+      "lat": 31.1015689,
+      "lon": 74.8993717,
+      "tags": {
+        "alt_name": "Game murade Wala",
+        "name": "Midewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6937124683,
+      "lat": 31.1079247,
+      "lon": 74.8985322,
+      "tags": {
+        "name": "Nihal Ke",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6937133275,
+      "lat": 31.1061633,
+      "lon": 74.9058171,
+      "tags": {
+        "name": "Aulakh",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6937150138,
+      "lat": 31.0999257,
+      "lon": 74.9154006,
+      "tags": {
+        "alt_name": "Sirhali",
+        "name": "Sarhali",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6937244913,
+      "lat": 31.0933385,
+      "lon": 74.9111627,
+      "tags": {
+        "name": "Walayat Shahwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6937296035,
+      "lat": 31.1077593,
+      "lon": 74.9239569,
+      "tags": {
+        "name": "Padhri",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6937297278,
+      "lat": 31.1105105,
+      "lon": 74.9169563,
+      "tags": {
+        "name": "Baharwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6937311913,
+      "lat": 31.115303,
+      "lon": 74.9283557,
+      "tags": {
+        "name": "Wattu Bhatti",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6937359676,
+      "lat": 31.1310384,
+      "lon": 74.9203359,
+      "tags": {
+        "name": "Dine Ke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6939435025,
+      "lat": 31.1187395,
+      "lon": 74.940845,
+      "tags": {
+        "name": "Nizamdin Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6939535848,
+      "lat": 31.1279998,
+      "lon": 74.9558305,
+      "tags": {
+        "name": "Maujgarh",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6939556563,
+      "lat": 31.1335147,
+      "lon": 74.9451097,
+      "tags": {
+        "name": "Chuhiwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6953733376,
+      "lat": 30.9074189,
+      "lon": 74.8833328,
+      "tags": {
+        "name": "Buianwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6953759064,
+      "lat": 30.9178319,
+      "lon": 74.8818925,
+      "tags": {
+        "alt_name": "Chhajjan Wali",
+        "name": "Chajjanwali",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6953815147,
+      "lat": 31.1109687,
+      "lon": 74.952864,
+      "tags": {
+        "name": "Talwandi Nepalan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6953866028,
+      "lat": 31.1276462,
+      "lon": 74.9710172,
+      "tags": {
+        "name": "Churian",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6953868962,
+      "lat": 31.1226545,
+      "lon": 74.9649715,
+      "tags": {
+        "name": "Buh Ariyan",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6953883848,
+      "lat": 31.1050644,
+      "lon": 74.9622303,
+      "tags": {
+        "name": "Basti Wasava Singh",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6953906379,
+      "lat": 31.0933788,
+      "lon": 74.9699604,
+      "tags": {
+        "name": "Sadarwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6953915801,
+      "lat": 31.0991253,
+      "lon": 74.9731039,
+      "tags": {
+        "alt_name": "Waryah",
+        "alt_name_1": "VARIYAN",
+        "name": "Variah",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6953937591,
+      "lat": 31.0920753,
+      "lon": 74.9771554,
+      "tags": {
+        "alt_name": "Araianwala",
+        "name": "Mohkam Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6953959919,
+      "lat": 31.0853705,
+      "lon": 74.9664145,
+      "tags": {
+        "name": "Chak Mahrana",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6954002378,
+      "lat": 31.0688981,
+      "lon": 74.9596674,
+      "tags": {
+        "name": "Killi Bodla",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6954040129,
+      "lat": 31.0671555,
+      "lon": 74.9536163,
+      "tags": {
+        "alt_name": "Basti Jawala Singh",
+        "name": "Jawalasinghwali Basti",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6954076713,
+      "lat": 31.077334,
+      "lon": 74.945221,
+      "tags": {
+        "alt_name": "Ghuddu Wala",
+        "name": "Ghuduwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6954077046,
+      "lat": 31.089829,
+      "lon": 74.9328695,
+      "tags": {
+        "name": "Jhamke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6954127009,
+      "lat": 31.078401,
+      "lon": 74.9296991,
+      "tags": {
+        "name": "Mithe",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6954129343,
+      "lat": 31.0727302,
+      "lon": 74.9219502,
+      "tags": {
+        "alt_name": "Chhote Warpal",
+        "name": "Harpalwali Basti",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6954160518,
+      "lat": 31.0724178,
+      "lon": 74.9119938,
+      "tags": {
+        "alt_name": "Varpal",
+        "name": "Warpal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6954213282,
+      "lat": 31.075966,
+      "lon": 74.8991273,
+      "tags": {
+        "name": "Jattan Wali",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6954249954,
+      "lat": 31.0662181,
+      "lon": 74.9011604,
+      "tags": {
+        "name": "Chiragwali",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6954249980,
+      "lat": 31.0583535,
+      "lon": 74.8896644,
+      "tags": {
+        "alt_name": "Kimewali",
+        "name": "Hashmat Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6954332201,
+      "lat": 31.0795267,
+      "lon": 74.8756257,
+      "tags": {
+        "alt_name": "Mallu Walia Wala",
+        "name": "Mallu Walie Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6954472362,
+      "lat": 31.054715,
+      "lon": 74.862837,
+      "tags": {
+        "name": "Mano Chahal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6954472363,
+      "lat": 31.0600825,
+      "lon": 74.865369,
+      "tags": {
+        "alt_name": "Sadhara",
+        "name": "Sudhara",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6955518432,
+      "lat": 30.9975739,
+      "lon": 74.8431549,
+      "tags": {
+        "alt_name": "Boranwali",
+        "alt_name_1": "Boran Wali",
+        "name": "Borhan Wali",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6955574292,
+      "lat": 31.001195,
+      "lon": 74.8026563,
+      "tags": {
+        "alt_name": "Hamidwala",
+        "name": "Hamadwala Uttarh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6956737567,
+      "lat": 30.9633061,
+      "lon": 74.8642734,
+      "tags": {
+        "alt_name": "Marurh",
+        "name": "Marur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6956794311,
+      "lat": 30.9141493,
+      "lon": 74.9249834,
+      "tags": {
+        "alt_name": "Sodhiwala",
+        "name": "Sodhi Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6956823664,
+      "lat": 30.9250976,
+      "lon": 74.8987031,
+      "tags": {
+        "name": "Pihe Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6956862918,
+      "lat": 30.9167752,
+      "lon": 74.9482933,
+      "tags": {
+        "alt_name": "Rataul Rohi",
+        "name": "Ratol Rohi",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6957014558,
+      "lat": 30.9412536,
+      "lon": 74.9290082,
+      "tags": {
+        "alt_name": "Vakilan Wala",
+        "name": "Wakilan Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6957073322,
+      "lat": 30.9486172,
+      "lon": 74.9648979,
+      "tags": {
+        "name": "Lehra Rohi",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6957161634,
+      "lat": 30.9507358,
+      "lon": 74.9275965,
+      "tags": {
+        "alt_name": "Warnala",
+        "name": "Varnala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6957170023,
+      "lat": 30.9604149,
+      "lon": 74.9289805,
+      "tags": {
+        "name": "Mahian Wala Khurd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6957280762,
+      "lat": 30.9445202,
+      "lon": 74.9088639,
+      "tags": {
+        "name": "Nile Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6957312388,
+      "lat": 30.9357736,
+      "lon": 74.9035263,
+      "tags": {
+        "alt_name": "Malleshah Wala",
+        "name": "Malle Shah Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6957417081,
+      "lat": 30.9894752,
+      "lon": 74.8586476,
+      "tags": {
+        "alt_name": "Basti Dhalle Ki",
+        "name": "Dhalle Ke",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6957526586,
+      "lat": 31.0096309,
+      "lon": 74.8575354,
+      "tags": {
+        "alt_name": "Tellu Wala",
+        "name": "Basti Tellu Wali",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6957526630,
+      "lat": 31.0128998,
+      "lon": 74.8628542,
+      "tags": {
+        "name": "Basti Meripur",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6957594957,
+      "lat": 31.025763,
+      "lon": 74.8566529,
+      "tags": {
+        "alt_name": "Bure Wala",
+        "name": "Burewala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6957601047,
+      "lat": 31.0263077,
+      "lon": 74.8671243,
+      "tags": {
+        "alt_name": "Kushalsingh Wali Basti",
+        "name": "Khushal Singh Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6957787655,
+      "lat": 31.0105504,
+      "lon": 74.8842234,
+      "tags": {
+        "alt_name": "Valtoha",
+        "name": "Waltoha",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6957805575,
+      "lat": 31.0194281,
+      "lon": 74.8887134,
+      "tags": {
+        "alt_name": "Lauke Khurd",
+        "name": "Lohke Khurd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6957848706,
+      "lat": 31.0409524,
+      "lon": 74.8859802,
+      "tags": {
+        "alt_name": "Jorha",
+        "name": "Jaura",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959287958,
+      "lat": 31.0485801,
+      "lon": 74.914567,
+      "tags": {
+        "alt_name": "Basti Haripura",
+        "name": "Haripur",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959322860,
+      "lat": 31.0053646,
+      "lon": 74.976467,
+      "tags": {
+        "alt_name": "Shehjada Sant Singh Wala",
+        "name": "Malsian Khurd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959325255,
+      "lat": 31.0325897,
+      "lon": 74.9138723,
+      "tags": {
+        "name": "Thatha",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959328121,
+      "lat": 31.0380297,
+      "lon": 74.9065096,
+      "tags": {
+        "name": "Kolea Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959334536,
+      "lat": 31.0103774,
+      "lon": 74.9115549,
+      "tags": {
+        "name": "Naurang Singh Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959335262,
+      "lat": 31.0509354,
+      "lon": 74.9246762,
+      "tags": {
+        "name": "Lohke Kalan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959361933,
+      "lat": 30.9940737,
+      "lon": 74.921589,
+      "tags": {
+        "name": "Kachar Bhan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959362592,
+      "lat": 31.0089153,
+      "lon": 74.8993186,
+      "tags": {
+        "name": "Alipur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959364689,
+      "lat": 30.9965557,
+      "lon": 74.8963092,
+      "tags": {
+        "name": "Mihan Singh Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959364972,
+      "lat": 30.9893969,
+      "lon": 74.9507688,
+      "tags": {
+        "name": "Bhotian Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959366212,
+      "lat": 30.9863824,
+      "lon": 74.9691338,
+      "tags": {
+        "name": "Kothe Gadhri Wala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959374409,
+      "lat": 30.9945197,
+      "lon": 74.9744607,
+      "tags": {
+        "alt_name": "Nawan Zira",
+        "name": "Zira Nau",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959400327,
+      "lat": 31.0134061,
+      "lon": 74.9769847,
+      "tags": {
+        "name": "Malsian Kalan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959422566,
+      "lat": 31.0317807,
+      "lon": 74.9335222,
+      "tags": {
+        "alt_name": "Chaba",
+        "alt_name_1": "Chhabba",
+        "name": "Chabba",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959486469,
+      "lat": 31.023827,
+      "lon": 74.9516968,
+      "tags": {
+        "alt_name": "Dhadian",
+        "name": "Dhandian",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959490415,
+      "lat": 31.0219881,
+      "lon": 74.9839665,
+      "tags": {
+        "name": "Basti Bute Wali",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959969513,
+      "lat": 31.0393454,
+      "lon": 74.9960713,
+      "tags": {
+        "alt_name": "Roshan Shah Wala",
+        "alt_name_1": "Butter Roshan Shah Wala",
+        "name": "Roshanshah Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959970424,
+      "lat": 31.0443483,
+      "lon": 75.0172178,
+      "tags": {
+        "name": "Machhian",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959987858,
+      "lat": 31.0494119,
+      "lon": 74.9719341,
+      "tags": {
+        "name": "Behak Gujran",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959993819,
+      "lat": 31.0477895,
+      "lon": 74.9822069,
+      "tags": {
+        "alt_name": "Sukh Lahoria Niwas",
+        "name": "Behak Pasarian",
+        "place": "village",
+        "short_name": "Sukhpreet Singh"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6960048893,
+      "lat": 31.0422192,
+      "lon": 74.9620233,
+      "tags": {
+        "name": "Basti Gamewali",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6960066640,
+      "lat": 31.0611719,
+      "lon": 74.9652326,
+      "tags": {
+        "name": "Behak Walayat Shah",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6960068413,
+      "lat": 31.058479,
+      "lon": 74.9517867,
+      "tags": {
+        "name": "Behak Fattu",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6960178030,
+      "lat": 31.0213543,
+      "lon": 75.0003608,
+      "tags": {
+        "name": "Tindwan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6960311394,
+      "lat": 31.007794,
+      "lon": 74.9954939,
+      "tags": {
+        "name": "Jhugge Gammewalian",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6960313472,
+      "lat": 30.9986968,
+      "lon": 74.9889547,
+      "tags": {
+        "name": "Basti Hajian Ki",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6960339435,
+      "lat": 31.0108113,
+      "lon": 75.006102,
+      "tags": {
+        "name": "Malloke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6961346701,
+      "lat": 30.9462441,
+      "lon": 74.9807983,
+      "tags": {
+        "name": "Bandala Purana",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6962825367,
+      "lat": 30.9001413,
+      "lon": 74.9844741,
+      "tags": {
+        "name": "Pandori Khatrian",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6963554319,
+      "lat": 30.9001851,
+      "lon": 75.0158036,
+      "tags": {
+        "name": "Longo dewa",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6963785933,
+      "lat": 30.9181236,
+      "lon": 75.0259048,
+      "tags": {
+        "alt_name": "Ramgarh",
+        "name": "Wara Chain Singh Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6964044998,
+      "lat": 30.9549751,
+      "lon": 75.0082183,
+      "tags": {
+        "name": "Mansur Deva",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6964127776,
+      "lat": 30.9355987,
+      "lon": 75.0391013,
+      "tags": {
+        "name": "Jhatra",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6964139786,
+      "lat": 30.9550188,
+      "lon": 75.0197947,
+      "tags": {
+        "name": "Ratul Bet",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6964139843,
+      "lat": 30.9541286,
+      "lon": 75.0245288,
+      "tags": {
+        "name": "Sukhewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6965789196,
+      "lat": 30.9521342,
+      "lon": 75.0466842,
+      "tags": {
+        "name": "Talwandi Mange Khan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6965870976,
+      "lat": 30.9454793,
+      "lon": 75.0580533,
+      "tags": {
+        "alt_name": "Talwandi Jallekhan",
+        "name": "Talwandi Jalle Khan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6966026195,
+      "lat": 30.9729975,
+      "lon": 75.0807743,
+      "tags": {
+        "name": "Jhanda Bagga",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6966033853,
+      "lat": 30.9768335,
+      "lon": 75.0725587,
+      "tags": {
+        "alt_name": "Kamal Garh",
+        "name": "Kamalgarh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6966120390,
+      "lat": 30.9890749,
+      "lon": 75.0899689,
+      "tags": {
+        "name": "Sherpur Takhtu Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6966306383,
+      "lat": 30.9775958,
+      "lon": 75.0394615,
+      "tags": {
+        "name": "Awan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6966322348,
+      "lat": 30.9803116,
+      "lon": 75.058414,
+      "tags": {
+        "alt_name": "Wara Poh Windian",
+        "name": "Wara Poh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6966337110,
+      "lat": 30.9718442,
+      "lon": 75.0490209,
+      "tags": {
+        "alt_name": "Bull Pandori Jatta",
+        "name": "Pandori Jattan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6966372400,
+      "lat": 30.997412,
+      "lon": 75.036267,
+      "tags": {
+        "name": "Shah Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6966399727,
+      "lat": 30.9779085,
+      "lon": 75.0250205,
+      "tags": {
+        "alt_name": "Sher Singh Wala",
+        "name": "Sher Singh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6966405757,
+      "lat": 31.0035368,
+      "lon": 75.028722,
+      "tags": {
+        "name": "Bati Punjab Singh",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6966434788,
+      "lat": 30.9941748,
+      "lon": 75.01699,
+      "tags": {
+        "name": "Bandala Nau",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6966450809,
+      "lat": 31.0195803,
+      "lon": 75.029709,
+      "tags": {
+        "name": "Nurpur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6966477075,
+      "lat": 31.0132819,
+      "lon": 75.057781,
+      "tags": {
+        "name": "Bulla",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6966493276,
+      "lat": 31.0082014,
+      "lon": 75.0389278,
+      "tags": {
+        "name": "Machhi Wara",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6966504854,
+      "lat": 31.019932,
+      "lon": 75.0688907,
+      "tags": {
+        "name": "Shah Abu Bakar",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6966537264,
+      "lat": 31.0270758,
+      "lon": 75.0689632,
+      "tags": {
+        "name": "Baghele Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6966573190,
+      "lat": 30.99858,
+      "lon": 75.0708461,
+      "tags": {
+        "name": "Katora",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968261398,
+      "lat": 31.0071932,
+      "lon": 75.0858966,
+      "tags": {
+        "name": "Mallu Wala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968311236,
+      "lat": 31.0117656,
+      "lon": 75.0949034,
+      "tags": {
+        "name": "Bhoge Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968311357,
+      "lat": 31.0083357,
+      "lon": 75.0874201,
+      "tags": {
+        "name": "Amargarh Bandian",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968332587,
+      "lat": 30.9971153,
+      "lon": 75.0976768,
+      "tags": {
+        "alt_name": "Mohar",
+        "name": "Muhaar",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968443888,
+      "lat": 31.0395922,
+      "lon": 75.054677,
+      "tags": {
+        "name": "Killi Naubad",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968443923,
+      "lat": 31.0274733,
+      "lon": 75.0441681,
+      "tags": {
+        "alt_name": "Beri Kadra Bad",
+        "name": "Beri Qadirabad",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968443924,
+      "lat": 31.0238233,
+      "lon": 75.0574397,
+      "tags": {
+        "alt_name": "Mohkam Wala",
+        "name": "Bagi Patni",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968558031,
+      "lat": 31.0307807,
+      "lon": 75.0343204,
+      "tags": {
+        "name": "Maste Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968562657,
+      "lat": 31.0366413,
+      "lon": 75.0248468,
+      "tags": {
+        "name": "Malhewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968570409,
+      "lat": 31.0239083,
+      "lon": 75.0144827,
+      "tags": {
+        "name": "Chohla",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968577401,
+      "lat": 31.029535,
+      "lon": 75.0091934,
+      "tags": {
+        "name": "Bahawalpur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968638418,
+      "lat": 31.0722708,
+      "lon": 74.9857777,
+      "tags": {
+        "name": "Khadur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968638451,
+      "lat": 31.0646594,
+      "lon": 74.999795,
+      "tags": {
+        "name": "Shihan Parhi",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968678197,
+      "lat": 31.0766081,
+      "lon": 74.9963832,
+      "tags": {
+        "name": "Jagge Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968679259,
+      "lat": 31.0859805,
+      "lon": 75.0060445,
+      "tags": {
+        "name": "Tibbi Araian",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968686835,
+      "lat": 31.0909075,
+      "lon": 74.987843,
+      "tags": {
+        "alt_name": "Qutabpura",
+        "name": "Kutabpura",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968696016,
+      "lat": 31.0939462,
+      "lon": 74.9974454,
+      "tags": {
+        "alt_name": "Femi Wala",
+        "name": "Phemiwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968701487,
+      "lat": 31.0937234,
+      "lon": 74.9929983,
+      "tags": {
+        "name": "Waras Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968995374,
+      "lat": 31.1081258,
+      "lon": 75.0087562,
+      "tags": {
+        "name": "Rasulpur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6969030783,
+      "lat": 31.1126911,
+      "lon": 75.0017262,
+      "tags": {
+        "name": "Changian",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6969044597,
+      "lat": 31.1222091,
+      "lon": 74.9826503,
+      "tags": {
+        "alt_name": "Sudian",
+        "alt_name_1": "Sudhia",
+        "name": "Sudiyan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6969069427,
+      "lat": 31.0847332,
+      "lon": 75.019705,
+      "tags": {
+        "name": "Lehra Bet",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6969075606,
+      "lat": 31.0982665,
+      "lon": 75.0199035,
+      "tags": {
+        "name": "Sudan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6970884137,
+      "lat": 31.0581801,
+      "lon": 75.0225207,
+      "tags": {
+        "alt_name": "Chamba",
+        "name": "Chamb",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6970884138,
+      "lat": 31.0551816,
+      "lon": 75.0303688,
+      "tags": {
+        "name": "Chhotian Chamba",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6970893562,
+      "lat": 31.0738974,
+      "lon": 75.0550076,
+      "tags": {
+        "alt_name": "Mumare Wala",
+        "name": "Mubarewala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6970893563,
+      "lat": 31.0807202,
+      "lon": 75.0614449,
+      "tags": {
+        "name": "Malang Shah",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6970896208,
+      "lat": 31.0649053,
+      "lon": 75.0391504,
+      "tags": {
+        "alt_name": "Peer Mohammad",
+        "name": "Pir Mohammad",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6970909419,
+      "lat": 31.0680459,
+      "lon": 75.0494179,
+      "tags": {
+        "alt_name": "Waras Wala Jattan",
+        "name": "Varaswala Jattan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6970933668,
+      "lat": 31.0843877,
+      "lon": 75.078014,
+      "tags": {
+        "name": "Gurali",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6970940418,
+      "lat": 31.0762397,
+      "lon": 75.0798218,
+      "tags": {
+        "name": "Buh Gujran",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6970943007,
+      "lat": 31.0727202,
+      "lon": 75.073701,
+      "tags": {
+        "name": "Basti Mandala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6970949140,
+      "lat": 31.0774411,
+      "lon": 75.0864898,
+      "tags": {
+        "name": "Lalle",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6970991363,
+      "lat": 31.0550753,
+      "lon": 75.091183,
+      "tags": {
+        "alt_name": "Jhanda Bagga Nawan",
+        "name": "Jhanda Bagga",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6970997060,
+      "lat": 31.0896501,
+      "lon": 75.0737305,
+      "tags": {
+        "name": "Amir Shahwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6971850210,
+      "lat": 31.0810618,
+      "lon": 75.1043499,
+      "tags": {
+        "name": "Sharaf Ali Shahwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6971916411,
+      "lat": 31.0826032,
+      "lon": 75.1123483,
+      "tags": {
+        "name": "Madahar Sera",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6972090254,
+      "lat": 31.0782705,
+      "lon": 75.1318503,
+      "tags": {
+        "alt_name": "Khanna",
+        "name": "Khana Kalan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6972301983,
+      "lat": 31.1014236,
+      "lon": 75.1264724,
+      "tags": {
+        "name": "Chak Khanna",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6972380923,
+      "lat": 31.0906745,
+      "lon": 75.1084034,
+      "tags": {
+        "name": "Khiali",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6972380924,
+      "lat": 31.0891218,
+      "lon": 75.1037042,
+      "tags": {
+        "name": "Silewind",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6972417060,
+      "lat": 31.0917931,
+      "lon": 75.0954162,
+      "tags": {
+        "alt_name": "Burj Mohammad Shah",
+        "name": "Burj Mohammad",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6972444229,
+      "lat": 31.098068,
+      "lon": 75.0862404,
+      "tags": {
+        "name": "Mundi Chhurimaran",
+        "place": "village",
+        "wikidata": "Q24933638",
+        "wikipedia": "en:Mundi Chhurimaran"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6972689950,
+      "lat": 31.123301,
+      "lon": 75.0714264,
+      "tags": {
+        "name": "Tibbi Ranga",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6972689951,
+      "lat": 31.1210048,
+      "lon": 75.0630901,
+      "tags": {
+        "name": "Manewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6973913774,
+      "lat": 31.1067129,
+      "lon": 75.0776232,
+      "tags": {
+        "name": "Mohammad Shahwala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6973925107,
+      "lat": 31.1007808,
+      "lon": 75.0708855,
+      "tags": {
+        "name": "Dibwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6976242647,
+      "lat": 31.0954781,
+      "lon": 75.0413066,
+      "tags": {
+        "alt_name": "Ammi wala",
+        "name": "Aminwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6976248127,
+      "lat": 31.0905697,
+      "lon": 75.0486236,
+      "tags": {
+        "name": "Nangal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6976428313,
+      "lat": 31.116294,
+      "lon": 75.0179874,
+      "tags": {
+        "name": "Bir Sarkar",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6976428337,
+      "lat": 31.1152583,
+      "lon": 75.0281181,
+      "tags": {
+        "alt_name": "Bhuti Wala",
+        "name": "Bhutiwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6976484896,
+      "lat": 31.126815,
+      "lon": 75.0387209,
+      "tags": {
+        "description": "villlage with scattered houses",
+        "name": "Rukne Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6976492952,
+      "lat": 31.1110697,
+      "lon": 75.0526523,
+      "tags": {
+        "name": "Kalhe Wala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6976492970,
+      "lat": 31.1173227,
+      "lon": 75.0521266,
+      "tags": {
+        "name": "Bhupe Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6976505197,
+      "lat": 31.1154903,
+      "lon": 75.0690942,
+      "tags": {
+        "name": "Muhamad Wala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6976514820,
+      "lat": 31.1070073,
+      "lon": 75.0493264,
+      "tags": {
+        "alt_name": "Manj Wala",
+        "name": "Manjwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6976528243,
+      "lat": 31.1107781,
+      "lon": 75.0421112,
+      "tags": {
+        "alt_name": "Chakkian Vadian",
+        "name": "Chakkian",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6976653276,
+      "lat": 31.1050483,
+      "lon": 75.063593,
+      "tags": {
+        "alt_name": "Joge Wala",
+        "name": "Jogewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6982240256,
+      "lat": 31.1105519,
+      "lon": 75.0692394,
+      "tags": {
+        "name": "Hyat Wala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6982337401,
+      "lat": 31.1065675,
+      "lon": 75.0877641,
+      "tags": {
+        "name": "Kassuwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6982338584,
+      "lat": 31.1178152,
+      "lon": 75.1031573,
+      "tags": {
+        "name": "Lallu Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6982341760,
+      "lat": 31.1049071,
+      "lon": 75.0943945,
+      "tags": {
+        "name": "Akbar Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6982355172,
+      "lat": 31.1218864,
+      "lon": 75.095926,
+      "tags": {
+        "name": "Mahle Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6982403295,
+      "lat": 31.1196752,
+      "lon": 75.1134248,
+      "tags": {
+        "name": "Warha Kali Rau",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6982407746,
+      "lat": 31.1061679,
+      "lon": 75.1141436,
+      "tags": {
+        "name": "Bara Suleman",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6982470761,
+      "lat": 31.1268391,
+      "lon": 75.0791998,
+      "tags": {
+        "name": "Tibbi Tayba",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6982474398,
+      "lat": 31.1286116,
+      "lon": 75.0875146,
+      "tags": {
+        "name": "Chak Tibbi Tayaba",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6982483953,
+      "lat": 31.1352491,
+      "lon": 75.0596921,
+      "tags": {
+        "name": "Behbal Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6982498189,
+      "lat": 31.1207728,
+      "lon": 75.0828154,
+      "tags": {
+        "name": "Tibbi Badra",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6982520911,
+      "lat": 31.1409724,
+      "lon": 75.0699435,
+      "tags": {
+        "name": "Mannu Machhi",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6982605847,
+      "lat": 31.1386176,
+      "lon": 75.0788015,
+      "tags": {
+        "name": "Chak Mannu",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6982608612,
+      "lat": 31.1469944,
+      "lon": 75.0774818,
+      "tags": {
+        "name": "Jamali Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6982633879,
+      "lat": 31.1482547,
+      "lon": 75.0578695,
+      "tags": {
+        "name": "Gatta Dalel",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6982644654,
+      "lat": 31.1502586,
+      "lon": 75.0533929,
+      "tags": {
+        "name": "Hardo Jand",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6983997983,
+      "lat": 31.0854728,
+      "lon": 74.7886053,
+      "tags": {
+        "alt_name": "Gurditti Wala",
+        "name": "Gurditiwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984014249,
+      "lat": 31.1072922,
+      "lon": 74.7730807,
+      "tags": {
+        "alt_name": "Bhangala",
+        "name": "Bandala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984031529,
+      "lat": 31.1024602,
+      "lon": 74.7915182,
+      "tags": {
+        "alt_name": "Hajarasingh Ki Basti",
+        "name": "Basti Hajarasingh",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984040255,
+      "lat": 31.0982848,
+      "lon": 74.7990337,
+      "tags": {
+        "alt_name": "Rukne Wala",
+        "name": "Ruknewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984042390,
+      "lat": 31.1201564,
+      "lon": 74.7873983,
+      "tags": {
+        "name": "Kale Ke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984045254,
+      "lat": 31.1051725,
+      "lon": 74.8112888,
+      "tags": {
+        "alt_name": "Qutabdinwala",
+        "name": "Qutab Din",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984062297,
+      "lat": 31.1230932,
+      "lon": 74.8385588,
+      "tags": {
+        "name": "Tanna Bagga",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7108805233,
+      "lat": 31.0398076,
+      "lon": 75.0765895,
+      "tags": {
+        "alt_name": "Mojjewala",
+        "name": "Mauje Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7108931286,
+      "lat": 31.0295885,
+      "lon": 75.0966023,
+      "tags": {
+        "name": "Mundi Jamal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7109012876,
+      "lat": 31.0352722,
+      "lon": 75.1135177,
+      "tags": {
+        "alt_name": "Fateh Ulla Shah",
+        "name": "Fateh Ule Shah",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7109066208,
+      "lat": 31.02578,
+      "lon": 75.1150734,
+      "tags": {
+        "name": "Basti Kashmir Singh",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7109175808,
+      "lat": 31.0579019,
+      "lon": 75.1335836,
+      "tags": {
+        "name": "Mahi Machhi Wala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7109175809,
+      "lat": 31.073118,
+      "lon": 75.1050336,
+      "tags": {
+        "name": "Bahadar Wala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7112627604,
+      "lat": 31.0411351,
+      "lon": 75.095634,
+      "tags": {
+        "name": "Danewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7112665049,
+      "lat": 31.0684293,
+      "lon": 75.1299445,
+      "tags": {
+        "alt_name": "Kahnewala",
+        "name": "Kahne Wala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7112671891,
+      "lat": 31.0674551,
+      "lon": 75.1232658,
+      "tags": {
+        "alt_name": "Laliandi",
+        "alt_name_1": "Laliyandi",
+        "name": "Lalhandi",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7112673838,
+      "lat": 31.0679399,
+      "lon": 75.1133363,
+      "tags": {
+        "name": "Mahi Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7114406123,
+      "lat": 31.0760409,
+      "lon": 75.1153011,
+      "tags": {
+        "name": "Goluwala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7114409757,
+      "lat": 31.0644424,
+      "lon": 75.0925479,
+      "tags": {
+        "name": "Chotian",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7114435578,
+      "lat": 31.0646521,
+      "lon": 75.1461062,
+      "tags": {
+        "name": "Takthu Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7114464888,
+      "lat": 31.0802719,
+      "lon": 75.1422894,
+      "tags": {
+        "name": "Boghe Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7114507703,
+      "lat": 31.0897518,
+      "lon": 75.1346987,
+      "tags": {
+        "name": "Bandala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7114526595,
+      "lat": 31.0747457,
+      "lon": 75.1497971,
+      "tags": {
+        "name": "Madarpur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7114526611,
+      "lat": 31.0732433,
+      "lon": 75.1538204,
+      "tags": {
+        "name": "Sangherha",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7114564540,
+      "lat": 31.0555511,
+      "lon": 75.1656959,
+      "tags": {
+        "name": "Mandar Kalan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7114566650,
+      "lat": 31.0611529,
+      "lon": 75.1607875,
+      "tags": {
+        "alt_name": "Melak Kangan",
+        "name": "Melak Kang",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7114617319,
+      "lat": 31.0531155,
+      "lon": 75.1730533,
+      "tags": {
+        "name": "Kambo Khurd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7114617320,
+      "lat": 31.0591654,
+      "lon": 75.180381,
+      "tags": {
+        "name": "Kambo Kalan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7114766986,
+      "lat": 31.0443263,
+      "lon": 75.1716798,
+      "tags": {
+        "name": "Bhaini",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7116059200,
+      "lat": 31.0515144,
+      "lon": 75.1569367,
+      "tags": {
+        "alt_name": "Rauwal",
+        "name": "Raowal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7116315083,
+      "lat": 31.0588695,
+      "lon": 75.1484502,
+      "tags": {
+        "name": "Melak Akalian",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7116365999,
+      "lat": 31.0520646,
+      "lon": 75.1371764,
+      "tags": {
+        "alt_name": "Saideshah Wala",
+        "name": "Saide Shah Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7116382055,
+      "lat": 31.0426389,
+      "lon": 75.1527071,
+      "tags": {
+        "name": "Khamba",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7116417765,
+      "lat": 31.0281223,
+      "lon": 75.1398343,
+      "tags": {
+        "name": "Kherha Daroli",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7116487339,
+      "lat": 31.0194113,
+      "lon": 75.1190564,
+      "tags": {
+        "name": "Killi Gandhran",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7116524023,
+      "lat": 30.9936299,
+      "lon": 75.107668,
+      "tags": {
+        "name": "Mandar",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7116610761,
+      "lat": 30.975191,
+      "lon": 75.1148371,
+      "tags": {
+        "name": "Daulewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7116610762,
+      "lat": 30.971408,
+      "lon": 75.107241,
+      "tags": {
+        "name": "Dargah Saidan",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7116967162,
+      "lat": 30.9991434,
+      "lon": 75.1282167,
+      "tags": {
+        "name": "Kadar Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7116967943,
+      "lat": 31.0134738,
+      "lon": 75.1449362,
+      "tags": {
+        "name": "Dharam Singh Wala",
+        "name:ur": "دھرم سنگھ والا",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7117081881,
+      "lat": 30.9944225,
+      "lon": 75.1491489,
+      "tags": {
+        "name": "Chirag Shah Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7121583608,
+      "lat": 30.9997839,
+      "lon": 75.1419401,
+      "tags": {
+        "name": "Fatehpur Jhugian",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7121595893,
+      "lat": 30.9907576,
+      "lon": 75.1419242,
+      "tags": {
+        "alt_name": "Maste Wala",
+        "name": "Mastewal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7121596876,
+      "lat": 30.9997743,
+      "lon": 75.1625012,
+      "tags": {
+        "name": "Shadiwala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7121596877,
+      "lat": 30.9971809,
+      "lon": 75.1649045,
+      "tags": {
+        "alt_name": "Kishanpur Said",
+        "name": "Kishanpura",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7122239188,
+      "lat": 30.9689073,
+      "lon": 75.1570085,
+      "tags": {
+        "name": "Masitan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7122244727,
+      "lat": 30.9827422,
+      "lon": 75.1644543,
+      "tags": {
+        "name": "Behram Ke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7123746012,
+      "lat": 30.9783165,
+      "lon": 75.1764802,
+      "tags": {
+        "name": "Jafarwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7123746013,
+      "lat": 30.9833724,
+      "lon": 75.1807976,
+      "tags": {
+        "name": "Musewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7136096030,
+      "lat": 31.0105619,
+      "lon": 75.1763346,
+      "tags": {
+        "name": "Said Mohammad",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7136096047,
+      "lat": 31.0199319,
+      "lon": 75.1702552,
+      "tags": {
+        "name": "Ramgarh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7136253279,
+      "lat": 31.0306222,
+      "lon": 75.1777117,
+      "tags": {
+        "alt_name": "Tota Singh Wala",
+        "name": "Totasingh Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7136262798,
+      "lat": 31.0311594,
+      "lon": 75.1612854,
+      "tags": {
+        "name": "Rajanwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138838047,
+      "lat": 31.0559604,
+      "lon": 75.1993064,
+      "tags": {
+        "name": "Mehru Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138870199,
+      "lat": 31.0235979,
+      "lon": 75.1983176,
+      "tags": {
+        "name": "Bagge",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138870208,
+      "lat": 31.0263998,
+      "lon": 75.1969229,
+      "tags": {
+        "name": "Sherewala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138870219,
+      "lat": 31.0284936,
+      "lon": 75.198162,
+      "tags": {
+        "name": "Tambu",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138882861,
+      "lat": 31.0264342,
+      "lon": 75.1874868,
+      "tags": {
+        "name": "Kanian Khas",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7139080373,
+      "lat": 31.0362493,
+      "lon": 75.184185,
+      "tags": {
+        "name": "Daulewala Khurd",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7139109935,
+      "lat": 31.0303921,
+      "lon": 75.1911373,
+      "tags": {
+        "name": "Basti Kashe Wali",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7139109963,
+      "lat": 31.0338706,
+      "lon": 75.1904453,
+      "tags": {
+        "alt_name": "Daule Wala Kalan",
+        "name": "Daulewala Kalan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7139202476,
+      "lat": 31.0088642,
+      "lon": 75.1972666,
+      "tags": {
+        "name": "Dhole Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7140937173,
+      "lat": 30.9892966,
+      "lon": 75.1967172,
+      "tags": {
+        "name": "Baje Ke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7140975016,
+      "lat": 30.9515514,
+      "lon": 75.1788941,
+      "tags": {
+        "name": "Kot Sadar Khan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7140984162,
+      "lat": 30.9477031,
+      "lon": 75.1558015,
+      "tags": {
+        "name": "Nasirpur Janian",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7141008623,
+      "lat": 30.956207,
+      "lon": 75.1200642,
+      "tags": {
+        "name": "Nihalgarh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7141017062,
+      "lat": 30.9505048,
+      "lon": 75.1191979,
+      "tags": {
+        "alt_name": "Talwandi Nau Bahaar",
+        "name": "Talwandi Naubahar",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7141022132,
+      "lat": 30.9585727,
+      "lon": 75.1058476,
+      "tags": {
+        "alt_name": "Mahal",
+        "name": "Mehal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7141025840,
+      "lat": 30.9598558,
+      "lon": 75.1337772,
+      "tags": {
+        "alt_name": "Gahili Wala",
+        "name": "Jaspur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7141078803,
+      "lat": 30.9535282,
+      "lon": 75.0808324,
+      "tags": {
+        "alt_name": "Laungiwind",
+        "name": "Longiwind",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7141109141,
+      "lat": 30.9346801,
+      "lon": 75.0953413,
+      "tags": {
+        "alt_name": "Munan",
+        "name": "Singhpura",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7144810741,
+      "lat": 30.9212075,
+      "lon": 75.0753522,
+      "tags": {
+        "name": "Manawan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7144830800,
+      "lat": 30.9079264,
+      "lon": 75.044099,
+      "tags": {
+        "name": "Umriana",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7144858431,
+      "lat": 30.903384,
+      "lon": 75.0834458,
+      "tags": {
+        "name": "Balkhandi",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7144877655,
+      "lat": 30.9198746,
+      "lon": 75.0996785,
+      "tags": {
+        "name": "Randiala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7145157479,
+      "lat": 30.9242186,
+      "lon": 75.1102108,
+      "tags": {
+        "alt_name": "Datte Wala",
+        "name": "Datewal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7145695185,
+      "lat": 30.9295759,
+      "lon": 75.1345458,
+      "tags": {
+        "alt_name": "Galoti",
+        "name": "Ghaloti",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7145732615,
+      "lat": 30.920653,
+      "lon": 75.1536754,
+      "tags": {
+        "alt_name": "Gagra",
+        "name": "Bhagpur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7146369893,
+      "lat": 30.9130436,
+      "lon": 75.1943875,
+      "tags": {
+        "alt_name": "Chugah Khurd",
+        "name": "Chuga Khurd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7146400413,
+      "lat": 30.9076594,
+      "lon": 75.1709218,
+      "tags": {
+        "name": "Chuhar Singh wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7146418724,
+      "lat": 30.9297035,
+      "lon": 75.1708628,
+      "tags": {
+        "name": "Cheema",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7249357042,
+      "lat": 31.2968683,
+      "lon": 75.0216419,
+      "tags": {
+        "alt_name": "Barhampura",
+        "name": "Brahampur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7249628972,
+      "lat": 31.2812082,
+      "lon": 75.0228544,
+      "tags": {
+        "alt_name": "Rani Walah",
+        "name": "Raniwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7250106467,
+      "lat": 31.2990864,
+      "lon": 75.0400313,
+      "tags": {
+        "alt_name": "Sangatpura",
+        "name": "Sangatpur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7250138646,
+      "lat": 31.2910687,
+      "lon": 75.0684341,
+      "tags": {
+        "name": "Munda Pind",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7250153801,
+      "lat": 31.2667386,
+      "lon": 75.0438646,
+      "tags": {
+        "alt_name": "Kaura Vidhan",
+        "name": "Kaura Widhan",
+        "name:pa": "ਕੌੜਾ ਵਿਧਾਨ",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7250185079,
+      "lat": 31.2741168,
+      "lon": 75.0676542,
+      "tags": {
+        "alt_name": "Gujarpura",
+        "name": "Gujarpur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7250234589,
+      "lat": 31.2497836,
+      "lon": 75.0616876,
+      "tags": {
+        "name": "Gharka",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7250366458,
+      "lat": 31.2536152,
+      "lon": 75.0221459,
+      "tags": {
+        "alt_name": "Pakhopura",
+        "name": "Pakhopur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7252707353,
+      "lat": 31.2564425,
+      "lon": 74.9940548,
+      "tags": {
+        "alt_name": "Chola Sahib",
+        "name": "Chohla Sahib",
+        "name:pa": "ਚੋਹਲਾ ਸਾਹਿਬ",
+        "place": "village",
+        "population": "11561",
+        "population:date": "2011",
+        "wikidata": "Q31789850",
+        "wikipedia": "pa:ਚੋਹਲਾ ਸਾਹਿਬ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7254761844,
+      "lat": 31.2795103,
+      "lon": 74.9964993,
+      "tags": {
+        "alt_name": "Chohla Khurd",
+        "name": "Nawan Chohla",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7254783266,
+      "lat": 31.2287983,
+      "lon": 75.0515887,
+      "tags": {
+        "name": "Karmuwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7254794803,
+      "lat": 31.2409786,
+      "lon": 75.0185493,
+      "tags": {
+        "name": "Rattoke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7254872540,
+      "lat": 31.2179029,
+      "lon": 75.0247792,
+      "tags": {
+        "alt_name": "Dhunn Dhaiwala",
+        "name": "Dhun",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7254934257,
+      "lat": 31.1968492,
+      "lon": 74.9984586,
+      "tags": {
+        "name": "Kambo Dhaiwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7254936194,
+      "lat": 31.2098801,
+      "lon": 75.0093377,
+      "tags": {
+        "name": "Chamba Kalan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7263563294,
+      "lat": 31.2892316,
+      "lon": 74.906843,
+      "tags": {
+        "name": "Burj Nathu Ka",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7266421842,
+      "lat": 31.2851859,
+      "lon": 74.9749714,
+      "tags": {
+        "name": "Sohawa",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7266460092,
+      "lat": 31.2682215,
+      "lon": 74.9662349,
+      "tags": {
+        "name": "Billian Wali",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7266512048,
+      "lat": 31.2754674,
+      "lon": 74.8985189,
+      "tags": {
+        "alt_name": "Burj Rai Ka",
+        "name": "Raipur Baleem",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7271244633,
+      "lat": 31.2766113,
+      "lon": 74.9116408,
+      "tags": {
+        "alt_name": "Zanardar",
+        "name": "Janardar",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7271277511,
+      "lat": 31.261994,
+      "lon": 74.8825774,
+      "tags": {
+        "name": "Nadohar",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7271347090,
+      "lat": 31.2518766,
+      "lon": 74.8690733,
+      "tags": {
+        "name": "Bathe Bhaini",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7271482926,
+      "lat": 31.2411722,
+      "lon": 74.8757006,
+      "tags": {
+        "alt_name": "Saidpura",
+        "name": "Saidpur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7271523307,
+      "lat": 31.2468122,
+      "lon": 74.9019913,
+      "tags": {
+        "name": "Pangota",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7271568252,
+      "lat": 31.2542864,
+      "lon": 74.9236365,
+      "tags": {
+        "alt_name": "Dadehar Sahib",
+        "name": "Dadehar",
+        "place": "village",
+        "wikidata": "Q5208051",
+        "wikipedia": "en:Dadehar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7271608412,
+      "lat": 31.2364824,
+      "lon": 74.9540846,
+      "tags": {
+        "name": "Dhattal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7271624723,
+      "lat": 31.2337874,
+      "lon": 74.9452502,
+      "tags": {
+        "name": "Chak Sarhali",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7271662701,
+      "lat": 31.2516384,
+      "lon": 74.9609554,
+      "tags": {
+        "name": "Khara",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7271917952,
+      "lat": 31.2288237,
+      "lon": 74.991406,
+      "tags": {
+        "alt_name": "Ruriwala",
+        "name": "Rurhi Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7271963020,
+      "lat": 31.2237462,
+      "lon": 74.9666217,
+      "tags": {
+        "name": "Gandiwind",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7272008306,
+      "lat": 31.2186136,
+      "lon": 74.953076,
+      "tags": {
+        "alt_name": "Nathupura",
+        "name": "Nathupur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7272008347,
+      "lat": 31.2164309,
+      "lon": 74.938561,
+      "tags": {
+        "alt_name": "Thathian Khurd",
+        "name": "Thathian",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7272065920,
+      "lat": 31.229196,
+      "lon": 74.9171431,
+      "tags": {
+        "name": "Ratta Gudda",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7272094166,
+      "lat": 31.237269,
+      "lon": 74.9219174,
+      "tags": {
+        "alt_name": "Kot Data",
+        "name": "Kotdata",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7272102463,
+      "lat": 31.230529,
+      "lon": 74.9038093,
+      "tags": {
+        "name": "Theh Rajba",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7272122708,
+      "lat": 31.2309669,
+      "lon": 74.8917779,
+      "tags": {
+        "alt_name": "PRINGARHI",
+        "name": "Pringri",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273507328,
+      "lat": 31.2198025,
+      "lon": 74.902979,
+      "tags": {
+        "name": "Nabipur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273538401,
+      "lat": 31.2085864,
+      "lon": 74.9042739,
+      "tags": {
+        "alt_name": "Jindanwala",
+        "name": "Jindawala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273546687,
+      "lat": 31.2129554,
+      "lon": 74.9275677,
+      "tags": {
+        "name": "Alipur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273559698,
+      "lat": 31.1984059,
+      "lon": 74.932511,
+      "tags": {
+        "alt_name": "Burj Deva Singh",
+        "name": "Burj Devasingh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273559721,
+      "lat": 31.2027595,
+      "lon": 74.9616078,
+      "tags": {
+        "name": "Marhana",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273629758,
+      "lat": 31.1883147,
+      "lon": 74.9511456,
+      "tags": {
+        "alt_name": "Juneke",
+        "name": "Joneke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273637517,
+      "lat": 31.1948794,
+      "lon": 74.9219651,
+      "tags": {
+        "name": "Burj Poohla",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273637556,
+      "lat": 31.1982514,
+      "lon": 74.9138706,
+      "tags": {
+        "alt_name": "Booh Havelian",
+        "name": "Booh",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273660008,
+      "lat": 31.1815734,
+      "lon": 74.9717861,
+      "tags": {
+        "alt_name": "Kiriyan",
+        "name": "Kirian",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273727130,
+      "lat": 31.1672628,
+      "lon": 74.9604083,
+      "tags": {
+        "name": "Marrar",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273810998,
+      "lat": 31.1492069,
+      "lon": 74.8375376,
+      "tags": {
+        "name": "Ghulewala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273810999,
+      "lat": 31.1464657,
+      "lon": 74.8198119,
+      "tags": {
+        "name": "Malah Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273832391,
+      "lat": 31.1623467,
+      "lon": 74.815583,
+      "tags": {
+        "alt_name": "Doomniwala",
+        "name": "Dumniwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273832392,
+      "lat": 31.155283,
+      "lon": 74.8093084,
+      "tags": {
+        "name": "Gadaike",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273834205,
+      "lat": 31.1540181,
+      "lon": 74.8166874,
+      "tags": {
+        "name": "Bhura Hathar",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273834236,
+      "lat": 31.14939,
+      "lon": 74.806882,
+      "tags": {
+        "name": "Bhaneke",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273853723,
+      "lat": 31.1452673,
+      "lon": 74.7959344,
+      "tags": {
+        "alt_name": "Jallo ke",
+        "name": "Jalloke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7273921351,
+      "lat": 31.1606292,
+      "lon": 74.7954347,
+      "tags": {
+        "alt_name": "Sito Mahi Jhugian",
+        "name": "Sito",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7276460033,
+      "lat": 31.1909264,
+      "lon": 74.8906151,
+      "tags": {
+        "alt_name": "Kirtowal Nau",
+        "name": "Kirtowal Khurd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7276568549,
+      "lat": 31.2111541,
+      "lon": 74.8654912,
+      "tags": {
+        "name": "Tung",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7276571487,
+      "lat": 31.2137687,
+      "lon": 74.8875601,
+      "tags": {
+        "alt_name": "Kirtowal Kohna",
+        "name": "Kirtowal Kalan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7279229340,
+      "lat": 31.2260663,
+      "lon": 74.8529992,
+      "tags": {
+        "alt_name": "Joti Shahwala",
+        "name": "Jyoti Shah",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7279357490,
+      "lat": 31.2707729,
+      "lon": 74.7922187,
+      "tags": {
+        "alt_name": "Chuslewarh",
+        "name": "Chuslewar",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7279623099,
+      "lat": 31.2348533,
+      "lon": 74.7707816,
+      "tags": {
+        "name": "Dhagana",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7279702817,
+      "lat": 31.2320162,
+      "lon": 74.8071986,
+      "tags": {
+        "name": "Umra Bath",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7282117269,
+      "lat": 31.1705938,
+      "lon": 74.7687234,
+      "tags": {
+        "name": "Safa Singh Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7282154445,
+      "lat": 31.1775803,
+      "lon": 74.7854514,
+      "tags": {
+        "alt_name": "Kot Nau Abaad",
+        "description": "village with scattered houses",
+        "name": "Kot Nau",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7282154453,
+      "lat": 31.1843822,
+      "lon": 74.7994264,
+      "tags": {
+        "name": "Sito Nau Abaad",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7282547444,
+      "lat": 31.150707,
+      "lon": 74.7685372,
+      "tags": {
+        "name": "Bhaowal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7282550601,
+      "lat": 31.1233258,
+      "lon": 74.7992371,
+      "tags": {
+        "name": "Gagarke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7282605308,
+      "lat": 31.1638857,
+      "lon": 74.7719518,
+      "tags": {
+        "name": "Bangla Rai",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7283219750,
+      "lat": 31.140888,
+      "lon": 74.7750519,
+      "tags": {
+        "description": "sparsely populated",
+        "name": "Balarhke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7283220689,
+      "lat": 31.1402155,
+      "lon": 74.7630855,
+      "tags": {
+        "name": "Bhojoke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7284181230,
+      "lat": 31.1349874,
+      "lon": 74.7507488,
+      "tags": {
+        "name": "Jhugian Pir Bakhash",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7284185075,
+      "lat": 31.1640742,
+      "lon": 74.7578028,
+      "tags": {
+        "name": "Killa Patti",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7284219396,
+      "lat": 31.1264338,
+      "lon": 74.7388617,
+      "tags": {
+        "name": "Radhalke",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7284219420,
+      "lat": 31.1338384,
+      "lon": 74.7168794,
+      "tags": {
+        "name": "Rasulpur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7284391673,
+      "lat": 31.1142586,
+      "lon": 74.7035432,
+      "tags": {
+        "name": "Muthia Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7284437289,
+      "lat": 31.161999,
+      "lon": 74.7214496,
+      "tags": {
+        "name": "Jhugian kalu",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7284437336,
+      "lat": 31.1277432,
+      "lon": 74.7032247,
+      "tags": {
+        "alt_name": "Jhugian Natha Singh",
+        "name": "Jhugian Natha",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7284437344,
+      "lat": 31.1336126,
+      "lon": 74.6932744,
+      "tags": {
+        "alt_name": "Jhugian Nur Mohammad",
+        "name": "Jhugian Nur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7301174773,
+      "lat": 31.2920337,
+      "lon": 74.6319959,
+      "tags": {
+        "name": "Bhaini Massa Singh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7301820954,
+      "lat": 31.2969181,
+      "lon": 74.603452,
+      "tags": {
+        "name": "Hundal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7302121760,
+      "lat": 31.2462116,
+      "lon": 74.6083309,
+      "tags": {
+        "name": "Ballianwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7302121761,
+      "lat": 31.2431181,
+      "lon": 74.601384,
+      "tags": {
+        "alt_name": "Mehmudpura",
+        "name": "Mahmoodpura",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7307858081,
+      "lat": 31.2637672,
+      "lon": 74.6429222,
+      "tags": {
+        "alt_name": "Vara Telianwala",
+        "name": "Wara Telian Wala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7307921789,
+      "lat": 31.27079,
+      "lon": 74.6039831,
+      "tags": {
+        "name": "Beharwal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7308221641,
+      "lat": 31.2701334,
+      "lon": 74.6528346,
+      "tags": {
+        "alt_name": "Vara Sher Singh",
+        "name": "Wara Sher Singh",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7308482529,
+      "lat": 31.2801779,
+      "lon": 74.6528932,
+      "tags": {
+        "name": "Algon Kothi",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7308497826,
+      "lat": 31.2861266,
+      "lon": 74.6390631,
+      "tags": {
+        "name": "Algon Khurd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7308544743,
+      "lat": 31.2897756,
+      "lon": 74.6553289,
+      "tags": {
+        "name": "Mari Nauabad",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7308562916,
+      "lat": 31.2725296,
+      "lon": 74.6355022,
+      "tags": {
+        "name": "Algon Kalan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7308647210,
+      "lat": 31.2977763,
+      "lon": 74.6772561,
+      "tags": {
+        "name": "Bhagwanpura",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7308647229,
+      "lat": 31.2896667,
+      "lon": 74.6736483,
+      "tags": {
+        "name": "Theh Bhagwanpura",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7308702041,
+      "lat": 31.2774766,
+      "lon": 74.6987431,
+      "tags": {
+        "name": "Kalsian Kalan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7308717273,
+      "lat": 31.2692555,
+      "lon": 74.717589,
+      "tags": {
+        "name": "Theh Naushera",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7308765241,
+      "lat": 31.2610217,
+      "lon": 74.6801084,
+      "tags": {
+        "name": "Bhai Ladhu",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7309207628,
+      "lat": 31.2898677,
+      "lon": 74.7330279,
+      "tags": {
+        "name": "Margindpura",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7309296043,
+      "lat": 31.2997117,
+      "lon": 74.7111809,
+      "tags": {
+        "name": "Makhi Kalan",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7311124456,
+      "lat": 31.2810209,
+      "lon": 74.7465642,
+      "tags": {
+        "name": "Akbarpura",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7311175623,
+      "lat": 31.2941778,
+      "lon": 74.7627647,
+      "tags": {
+        "name": "Theh Chahal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7311678149,
+      "lat": 31.2915284,
+      "lon": 74.7902217,
+      "tags": {
+        "name": "Manihala Jai Singh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7311991517,
+      "lat": 31.2921676,
+      "lon": 74.8142709,
+      "tags": {
+        "name": "Kulla",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7314268287,
+      "lat": 31.2445381,
+      "lon": 74.6319495,
+      "tags": {
+        "name": "Dibipura",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7314268288,
+      "lat": 31.247776,
+      "lon": 74.6303831,
+      "tags": {
+        "name": "Daudpura",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7314275537,
+      "lat": 31.2568719,
+      "lon": 74.6230467,
+      "tags": {
+        "name": "Jagatpur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7314275538,
+      "lat": 31.2648692,
+      "lon": 74.6264156,
+      "tags": {
+        "name": "Fatehpur",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7315614409,
+      "lat": 31.2209011,
+      "lon": 74.6054861,
+      "tags": {
+        "name": "Wara Thathi",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7315803869,
+      "lat": 31.2015076,
+      "lon": 74.6036557,
+      "tags": {
+        "name": "Cheema Khurd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7321734664,
+      "lat": 31.190709,
+      "lon": 74.7324747,
+      "tags": {
+        "name": "Talwandi Mutsada Singh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7325203303,
+      "lat": 31.1675016,
+      "lon": 74.7286748,
+      "tags": {
+        "name": "Talwandi Budh Singh",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7325264242,
+      "lat": 31.1700536,
+      "lon": 74.6931784,
+      "tags": {
+        "alt_name": "Jodh Singhwala",
+        "name": "Jodh Singh Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7325502364,
+      "lat": 31.1750168,
+      "lon": 74.628447,
+      "tags": {
+        "name": "Sarai Valtoha",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7325531733,
+      "lat": 31.1445325,
+      "lon": 74.6553338,
+      "tags": {
+        "alt_name": "Gajal",
+        "name": "Gajjal",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7325574450,
+      "lat": 31.1710358,
+      "lon": 74.6464278,
+      "tags": {
+        "alt_name": "Kotli Wasava Singh",
+        "name": "Kotli Vasava Singh",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7325636891,
+      "lat": 31.147261,
+      "lon": 74.6233402,
+      "tags": {
+        "name": "Chakwalia",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8634297161,
+      "lat": 31.2998032,
+      "lon": 75.1756078,
+      "tags": {
+        "name": "Talwandi Choudhrian",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8658744955,
+      "lat": 31.1153437,
+      "lon": 74.6747927,
+      "tags": {
+        "name": "وستی",
+        "name:en": "Wasti",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8658749612,
+      "lat": 31.0875163,
+      "lon": 74.6085567,
+      "tags": {
+        "name": "ماھی وال",
+        "name:en": "Mahiwala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8658749613,
+      "lat": 31.0801944,
+      "lon": 74.6145041,
+      "tags": {
+        "name": "Kallo Wala",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8658749671,
+      "lat": 31.0998703,
+      "lon": 74.6458969,
+      "tags": {
+        "name": "دھوپ سری",
+        "name:en": "Dhupsari",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8658749753,
+      "lat": 31.1217241,
+      "lon": 74.6512697,
+      "tags": {
+        "name": "مبوکی",
+        "name:en": "Mabboki",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8658749754,
+      "lat": 31.1125172,
+      "lon": 74.6657444,
+      "tags": {
+        "name": "دونا مبّوکی",
+        "name:en": "Dona Mabboki",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8658749816,
+      "lat": 31.1067297,
+      "lon": 74.6551132,
+      "tags": {
+        "name": "Chaant",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8660726149,
+      "lat": 31.0642845,
+      "lon": 74.6018728,
+      "tags": {
+        "name": "Ghatti Kalanjar",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8660726150,
+      "lat": 31.0619957,
+      "lon": 74.6202521,
+      "tags": {
+        "name": "بھاگڑاں والی",
+        "name:en": "Bhagranwali",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13359772885,
+      "lat": 31.1431318,
+      "lon": 75.1682601,
+      "tags": {
+        "name": "Nahal",
+        "place": "village"
+      }
+    }
+  ]
+}

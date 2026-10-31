@@ -1,0 +1,21 @@
+{
+  "flood_level": 1001.31,
+  "24h": {
+    "precision": 0.91,
+    "recall": 0.97,
+    "f1": 0.94,
+    "test_flood_days": 151
+  },
+  "48h": {
+    "precision": 0.92,
+    "recall": 0.94,
+    "f1": 0.93,
+    "test_flood_days": 157
+  },
+  "72h": {
+    "precision": 0.93,
+    "recall": 0.93,
+    "f1": 0.93,
+    "test_flood_days": 163
+  }
+}
